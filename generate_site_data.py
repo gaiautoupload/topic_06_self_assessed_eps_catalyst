@@ -3,6 +3,7 @@ from __future__ import annotations
 import csv
 import json
 from pathlib import Path
+from datetime import date
 
 
 PROJECT_DIR = Path(__file__).resolve().parent
@@ -71,6 +72,7 @@ def build_payload() -> dict:
                 "entry_close": parse_float(snapshot["close"]) if snapshot else None,
                 "implied_pe": parse_float(snapshot["implied_pe"]) if snapshot else None,
                 "avg_return_pct": avg_return,
+                "latest_exit_date": max((trade["exit_date"] for trade in event_trades), default=None),
                 "trades": [
                     {
                         "strategy_tag": row["strategy_tag"],
@@ -86,6 +88,20 @@ def build_payload() -> dict:
             }
         )
 
+    today = date.today().isoformat()
+    ongoing_events = [
+        row for row in event_cards
+        if row["latest_exit_date"] is not None and row["latest_exit_date"] >= today
+    ]
+    upcoming_events = [
+        row for row in event_cards
+        if row["announcement_date"] > today
+    ]
+    past_events = [
+        row for row in event_cards
+        if row not in ongoing_events and row not in upcoming_events
+    ]
+
     priced_events = [row for row in event_cards if row["coverage"] == "priced"]
     all_trade_returns = [
         trade["return_pct"]
@@ -100,6 +116,9 @@ def build_payload() -> dict:
         "meta": {
             "title": "Topic 06: Self-Assessed EPS Catalyst",
             "generated_from": "project output csv/json",
+            "author": "pioter",
+            "author_tagline": "分析師+1000",
+            "today": today,
         },
         "summary": {
             "events": len(events),
@@ -110,10 +129,16 @@ def build_payload() -> dict:
             "positive_trade_ratio": (len(positive_trades) / len(all_trade_returns)) if all_trade_returns else None,
             "average_trade_return": average_trade_return,
             "events_with_implied_pe": valuation_summary["events_with_implied_pe"],
+            "ongoing_events": len(ongoing_events),
+            "upcoming_events": len(upcoming_events),
+            "past_events": len(past_events),
         },
         "valuation_summary": valuation_summary,
         "trades_summary": trades_summary,
         "missing_stock_ids": sorted({row["stock_id"] for row in missing_prices}),
+        "ongoing_events": ongoing_events,
+        "upcoming_events": upcoming_events,
+        "past_events": past_events,
         "event_cards": event_cards,
     }
 

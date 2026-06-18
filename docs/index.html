@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Topic 06: 自結 EPS 股價催化效應</title>
+    <title>Topic 06 | 量化事件看板</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -12,67 +12,52 @@
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
-  <body>
+  <body data-page="home">
     <div class="page-shell">
       <header class="hero">
         <div class="hero-copy">
-          <p class="eyebrow">Taiwan Event Strategy / Topic 06</p>
+          <p class="eyebrow">Quant Event Platform / Topic 06</p>
           <h1>自結 EPS 股價催化效應</h1>
           <p class="lede">
-            用最小可執行資料管線，把自結 EPS / 自結獲利公告轉成事件、價格快照與固定持有期回測。
+            這不是研究筆記頁，而是未來要持續追蹤事件、監看交易、回看回測績效的量化觀看平台。
           </p>
+          <div class="author-chip">
+            <span class="author-name">作者 pioter</span>
+            <span class="author-role">分析師+1000</span>
+          </div>
         </div>
         <div class="hero-panel">
-          <div class="panel-label">Current Read</div>
-          <div class="panel-number" id="heroCoverage">--</div>
-          <div class="panel-note">價格資料覆蓋率</div>
+          <div class="panel-label">Live Monitor</div>
+          <div class="panel-number" id="heroMainValue">--</div>
+          <div class="panel-note" id="heroMainNote">正在交易事件</div>
         </div>
       </header>
+
+      <nav class="top-nav">
+        <a class="nav-link is-active" href="./index.html">正在交易</a>
+        <a class="nav-link" href="./past.html">過去事件</a>
+        <a class="nav-link" href="./backtest.html">回測績效</a>
+      </nav>
 
       <main class="content-grid">
         <section class="metrics" id="metrics"></section>
 
-        <section class="card story-card">
+        <section class="card wide">
           <div class="section-heading">
-            <p class="eyebrow">Pipeline</p>
-            <h2>目前進度</h2>
+            <p class="eyebrow">Live Events</p>
+            <h2>正在交易的事件</h2>
           </div>
-          <div class="story-layout">
-            <div class="story-copy">
-              <p>
-                這一版網站直接綁定專案輸出，不等後端服務。資料來源是
-                <code>events.csv</code>、<code>valuation_snapshot.csv</code> 與
-                <code>trades.csv</code>。
-              </p>
-              <p>
-                因為現在價格資料只覆蓋少數股票，所以網站也會直接把資料缺口亮出來，避免我們誤判策略本身。
-              </p>
-            </div>
-            <div class="story-bars" id="coverageBars"></div>
-          </div>
-        </section>
-
-        <section class="card">
-          <div class="section-heading">
-            <p class="eyebrow">Event Board</p>
-            <h2>事件清單</h2>
-          </div>
-          <div class="filters">
-            <button class="filter-chip is-active" data-filter="all">全部</button>
-            <button class="filter-chip" data-filter="priced">有價格</button>
-            <button class="filter-chip" data-filter="missing_price">缺價格</button>
-            <button class="filter-chip" data-filter="A">A 級</button>
-            <button class="filter-chip" data-filter="B">B 級</button>
-          </div>
-          <div class="event-list" id="eventList"></div>
+          <div class="section-intro">首頁最上面只放目前仍在交易窗口內的事件。若沒有符合條件，會顯示空狀態。</div>
+          <div class="event-list" id="ongoingList"></div>
         </section>
 
         <section class="card wide">
           <div class="section-heading">
-            <p class="eyebrow">Coverage Gap</p>
-            <h2>待補價格資料股票</h2>
+            <p class="eyebrow">Upcoming Queue</p>
+            <h2>未來事件</h2>
           </div>
-          <div class="missing-grid" id="missingGrid"></div>
+          <div class="section-intro">這一區預留給尚未進入交易視窗的事件。目前資料集還沒有未來樣本。</div>
+          <div class="event-list" id="upcomingList"></div>
         </section>
       </main>
     </div>

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Topic 06 | 回測績效</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body data-page="backtest">
+    <div class="page-shell">
+      <header class="subhero">
+        <div>
+          <p class="eyebrow">Backtest</p>
+          <h1>回測績效</h1>
+          <p class="lede">把固定持有期的結果拆開看，知道現在平台展示的是什麼，也知道目前資料量還差多少。</p>
+        </div>
+        <div class="author-chip compact">
+          <span class="author-name">作者 pioter</span>
+          <span class="author-role">分析師+1000</span>
+        </div>
+      </header>
+
+      <nav class="top-nav">
+        <a class="nav-link" href="./index.html">正在交易</a>
+        <a class="nav-link" href="./past.html">過去事件</a>
+        <a class="nav-link is-active" href="./backtest.html">回測績效</a>
+      </nav>
+
+      <main class="content-grid">
+        <section class="metrics" id="backtestMetrics"></section>
+
+        <section class="card wide">
+          <div class="section-heading">
+            <p class="eyebrow">Trade Windows</p>
+            <h2>固定持有期結果</h2>
+          </div>
+          <div class="trade-table" id="tradeTable"></div>
+        </section>
+
+        <section class="card">
+          <div class="section-heading">
+            <p class="eyebrow">Coverage Reality</p>
+            <h2>資料現況</h2>
+          </div>
+          <div class="story-bars" id="coverageBars"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
