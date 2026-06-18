@@ -1,0 +1,4 @@
+# 可再生產物,不進版控(跑 self_assessed_eps_strategy.py 等腳本即重生)
+__pycache__/
+*.pyc
+data/
