@@ -2,29 +2,36 @@ from __future__ import annotations
 
 import csv
 import json
-from pathlib import Path
 from datetime import date
+from pathlib import Path
 
 
 PROJECT_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = PROJECT_DIR / "output"
 SITE_DIR = PROJECT_DIR / "site"
+LOCAL_DIR = PROJECT_DIR / "project_data" / "2026_h1"
+FUNDAMENTAL_LAB_DIR = PROJECT_DIR / "project_data" / "fundamental_event_lab"
+SIMPLE_REVENUE_DIR = PROJECT_DIR / "project_data" / "simple_monthly_revenue"
 
 
-def load_csv(name: str) -> list[dict[str, str]]:
-    path = OUTPUT_DIR / name
+def load_csv(path: Path) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
     with path.open("r", encoding="utf-8-sig", newline="") as fh:
         return list(csv.DictReader(fh))
 
 
-def load_json(name: str) -> dict:
-    path = OUTPUT_DIR / name
+def load_json(path: Path) -> dict:
+    if not path.exists():
+        return {}
     with path.open("r", encoding="utf-8") as fh:
         return json.load(fh)
 
 
-def parse_float(value: str) -> float | None:
-    text = (value or "").strip()
+def parse_float(value: str | float | int | None) -> float | None:
+    if value is None:
+        return None
+    text = str(value).strip()
     if not text:
         return None
     try:
@@ -33,136 +40,255 @@ def parse_float(value: str) -> float | None:
         return None
 
 
+def parse_bool(value: str | bool | None) -> bool:
+    if isinstance(value, bool):
+        return value
+    return str(value).strip().lower() == "true"
+
+
+def build_event_map(rows: list[dict[str, str]]) -> dict[str, dict[str, str]]:
+    return {row["event_id"]: row for row in rows if row.get("event_id")}
+
+
 def build_payload() -> dict:
-    events = load_csv("events.csv")
-    comparisons = load_csv("event_comparisons.csv")
-    snapshots = load_csv("valuation_snapshot.csv")
-    missing_prices = load_csv("valuation_missing_prices.csv")
-    trades = load_csv("trades.csv")
-    valuation_summary = load_json("valuation_summary.json")
-    trades_summary = load_json("trades_summary.json")
-    local_backtest_summary = {}
-    local_marked_positions = []
-    local_dir = PROJECT_DIR / "project_data" / "2026_h1"
-    if (local_dir / "backtest_summary.json").exists():
-        with (local_dir / "backtest_summary.json").open("r", encoding="utf-8") as fh:
-            local_backtest_summary = json.load(fh)
-    if (local_dir / "backtest_marked_positions.csv").exists():
-        with (local_dir / "backtest_marked_positions.csv").open("r", encoding="utf-8-sig", newline="") as fh:
-            local_marked_positions = list(csv.DictReader(fh))
+    today = date.today().isoformat()
+
+    local_summary = load_json(LOCAL_DIR / "summary.json")
+    monthly_summary = load_json(LOCAL_DIR / "monthly_portfolio_summary.json")
+    backtest_summary = load_json(LOCAL_DIR / "backtest_summary.json")
+    parameter_backtest_summary = load_json(FUNDAMENTAL_LAB_DIR / "parameter_backtest_summary.json")
+    batch_backtest_summary = load_json(SIMPLE_REVENUE_DIR / "batch_backtest_summary.json")
+
+    selected_events = load_csv(LOCAL_DIR / "selected_events.csv")
+    main_events = load_csv(LOCAL_DIR / "main_strategy_events.csv")
+    review_events = load_csv(LOCAL_DIR / "manual_review_events.csv")
+    monthly_portfolio = load_csv(LOCAL_DIR / "monthly_portfolio.csv")
+    marked_positions = load_csv(LOCAL_DIR / "backtest_marked_positions.csv")
+    full_trades = load_csv(LOCAL_DIR / "backtest_trades.csv")
+    best_parameter_trades = load_csv(FUNDAMENTAL_LAB_DIR / "best_parameter_trades.csv")
+    batch_best_trades = load_csv(SIMPLE_REVENUE_DIR / "batch_best_trades.csv")
+    batch_parameter_results = load_csv(SIMPLE_REVENUE_DIR / "batch_parameter_results.csv")
+    skipped_rows = load_csv(LOCAL_DIR / "backtest_skipped.csv")
+    main_gaps = load_csv(LOCAL_DIR / "main_event_gaps.csv")
+
+    comparisons = load_csv(OUTPUT_DIR / "event_comparisons.csv")
+    comparison_by_event = build_event_map(comparisons)
+    main_event_by_id = build_event_map(main_events)
+    selected_by_id = build_event_map(selected_events)
 
     trades_by_event: dict[str, list[dict[str, str]]] = {}
-    for row in trades:
+    for row in full_trades:
         trades_by_event.setdefault(row["event_id"], []).append(row)
 
-    snapshot_by_event = {row["event_id"]: row for row in snapshots}
-    comparison_by_event = {row["event_id"]: row for row in comparisons}
-    event_cards: list[dict] = []
-    for event in events:
-        event_trades = trades_by_event.get(event["event_id"], [])
-        snapshot = snapshot_by_event.get(event["event_id"])
-        comparison = comparison_by_event.get(event["event_id"])
-        avg_return = None
-        if event_trades:
-            values = [parse_float(row["return_pct"]) for row in event_trades]
-            clean_values = [value for value in values if value is not None]
-            if clean_values:
-                avg_return = sum(clean_values) / len(clean_values)
-        event_cards.append(
+    marked_by_event: dict[str, dict[str, str]] = {
+        row["event_id"]: row for row in marked_positions if row.get("event_id")
+    }
+
+    portfolio_ids = {row["event_id"] for row in monthly_portfolio if row.get("event_id")}
+
+    local_event_cards: list[dict] = []
+    for row in main_events:
+        event_id = row["event_id"]
+        comparison = comparison_by_event.get(event_id, {})
+        mark = marked_by_event.get(event_id, {})
+        trades = trades_by_event.get(event_id, [])
+        local_event_cards.append(
             {
-                "event_id": event["event_id"],
-                "stock_id": event["stock_id"],
-                "company_name": event["company_name"],
-                "announcement_date": event["announcement_date"],
-                "title": event["title"],
-                "event_type": event["event_type"],
-                "signal_strength": event["signal_strength"],
-                "eps_value": parse_float(event["eps_value"]),
-                "profit_value": parse_float(event["profit_value"]),
-                "coverage": "priced" if snapshot else "missing_price",
-                "strategy_bucket": comparison["strategy_bucket"] if comparison else "topic_06_eps_catalyst",
-                "metric_kind": comparison["metric_kind"] if comparison else None,
-                "metric_prev": parse_float(comparison["metric_prev"]) if comparison else None,
-                "prev_delta": parse_float(comparison["prev_delta"]) if comparison else None,
-                "prev_pct": parse_float(comparison["prev_pct"]) if comparison else None,
-                "yoy_delta": parse_float(comparison["yoy_delta"]) if comparison else None,
-                "yoy_pct": parse_float(comparison["yoy_pct"]) if comparison else None,
-                "turned_profit_from_loss": (comparison["turned_profit_from_loss"] == "True") if comparison else False,
-                "entry_date": snapshot["entry_date"] if snapshot else None,
-                "entry_close": parse_float(snapshot["close"]) if snapshot else None,
-                "implied_pe": parse_float(snapshot["implied_pe"]) if snapshot else None,
-                "avg_return_pct": avg_return,
-                "latest_exit_date": max((trade["exit_date"] for trade in event_trades), default=None),
+                "event_id": event_id,
+                "announcement_date": row["announcement_date"],
+                "announcement_time": row.get("announcement_time", ""),
+                "stock_id": row["stock_id"],
+                "company_name": row["company_name"],
+                "title": row["title"],
+                "strategy_bucket": row["strategy_bucket"],
+                "has_compare_context": parse_bool(row.get("has_compare_context")),
+                "has_price_file": parse_bool(row.get("has_price_file")),
+                "is_selected": event_id in portfolio_ids,
+                "eps_value": parse_float(row.get("eps_value")),
+                "profit_value": parse_float(row.get("profit_value")),
+                "prev_pct": parse_float(comparison.get("prev_pct")),
+                "yoy_pct": parse_float(comparison.get("yoy_pct")),
+                "prev_delta": parse_float(comparison.get("prev_delta")),
+                "yoy_delta": parse_float(comparison.get("yoy_delta")),
+                "turned_profit_from_loss": parse_bool(comparison.get("turned_profit_from_loss")),
+                "marked_return_pct": parse_float(mark.get("marked_return_pct")),
+                "marked_pnl_amount": parse_float(mark.get("marked_pnl_amount")),
+                "entry_date": mark.get("entry_date"),
+                "entry_price": parse_float(mark.get("entry_price")),
+                "latest_date": mark.get("latest_date"),
+                "latest_price": parse_float(mark.get("latest_price")),
                 "trades": [
                     {
-                        "strategy_tag": row["strategy_tag"],
-                        "entry_date": row["entry_date"],
-                        "entry_price": parse_float(row["entry_price"]),
-                        "exit_date": row["exit_date"],
-                        "exit_price": parse_float(row["exit_price"]),
-                        "holding_days": int(row["holding_days"]),
-                        "return_pct": parse_float(row["return_pct"]),
+                        "holding_days": int(trade["holding_days"]),
+                        "entry_date": trade["entry_date"],
+                        "exit_date": trade["exit_date"],
+                        "return_pct": parse_float(trade["return_pct"]),
+                        "pnl_amount": parse_float(trade["pnl_amount"]),
                     }
-                    for row in event_trades
+                    for trade in trades
                 ],
             }
         )
 
-    today = date.today().isoformat()
-    ongoing_events = [
-        row for row in event_cards
-        if row["latest_exit_date"] is not None and row["latest_exit_date"] >= today
+    active_events = [
+        event for event in local_event_cards
+        if event["is_selected"] and event["has_price_file"]
     ]
-    upcoming_events = [
-        row for row in event_cards
-        if row["announcement_date"] > today
+    future_events = [
+        event for event in local_event_cards
+        if not event["has_price_file"]
     ]
-    past_events = [
-        row for row in event_cards
-        if row not in ongoing_events and row not in upcoming_events
-    ]
+    past_events = sorted(
+        local_event_cards,
+        key=lambda row: (row["announcement_date"], row["stock_id"]),
+        reverse=True,
+    )
 
-    priced_events = [row for row in event_cards if row["coverage"] == "priced"]
-    all_trade_returns = [
-        trade["return_pct"]
-        for event in event_cards
-        for trade in event["trades"]
-        if trade["return_pct"] is not None
-    ]
-    positive_trades = [value for value in all_trade_returns if value > 0]
-    average_trade_return = sum(all_trade_returns) / len(all_trade_returns) if all_trade_returns else None
+    gap_counts: dict[str, int] = {}
+    for row in main_gaps:
+        issue = row["issue"]
+        gap_counts[issue] = gap_counts.get(issue, 0) + 1
+
+    skipped_by_reason: dict[str, int] = {}
+    for row in skipped_rows:
+        reason = row["reason"]
+        skipped_by_reason[reason] = skipped_by_reason.get(reason, 0) + 1
+
+    month_cards = []
+    for month, info in sorted((monthly_summary.get("months") or {}).items()):
+        month_cards.append(
+            {
+                "month": month,
+                "candidate_events": info.get("candidate_events", 0),
+                "selected_events": info.get("selected_events", 0),
+                "allocation_per_event": info.get("allocation_per_event", 0),
+                "allocated_capital": info.get("allocated_capital", 0),
+                "fill_rule": info.get("fill_rule", ""),
+            }
+        )
+
+    def numeric_batch_row(row: dict[str, str]) -> dict:
+        numeric_fields = {
+            "min_avg_volume_5d",
+            "price_breakout_days",
+            "min_institutional_net_buy",
+            "eps_quality_clip_low",
+            "eps_quality_clip_high",
+            "stop_loss",
+            "take_profit",
+            "filtered",
+            "selected",
+            "trades",
+            "covered_trade_months",
+            "full_trade_months",
+            "min_trades_per_month",
+            "finalized_trades",
+            "as_of_latest_trades",
+            "win_rate",
+            "avg_return_pct",
+            "total_pnl_amount",
+            "invested_amount",
+            "portfolio_return_pct",
+        }
+        return {
+            key: parse_float(value) if key in numeric_fields else value
+            for key, value in row.items()
+        }
+
+    batch_rankings = [numeric_batch_row(row) for row in batch_parameter_results[:100]]
 
     return {
         "meta": {
             "title": "Topic 06: Self-Assessed EPS Catalyst",
-            "generated_from": "project output csv/json",
+            "today": today,
             "author": "pioter",
             "author_tagline": "分析師+1000",
-            "today": today,
         },
         "summary": {
-            "events": len(events),
-            "priced_events": len(priced_events),
-            "missing_prices": len(missing_prices),
-            "coverage_ratio": valuation_summary["coverage_ratio"],
-            "trades": len(trades),
-            "positive_trade_ratio": (len(positive_trades) / len(all_trade_returns)) if all_trade_returns else None,
-            "average_trade_return": average_trade_return,
-            "events_with_implied_pe": valuation_summary["events_with_implied_pe"],
-            "ongoing_events": len(ongoing_events),
-            "upcoming_events": len(upcoming_events),
+            "selected_events": len(selected_events),
+            "main_strategy_events": len(main_events),
+            "manual_review_events": len(review_events),
+            "active_events": len(active_events),
+            "future_events": len(future_events),
             "past_events": len(past_events),
+            "marked_positions": len(marked_positions),
+            "full_trades": len(full_trades),
+            "skipped_rows": len(skipped_rows),
         },
-        "valuation_summary": valuation_summary,
-        "trades_summary": trades_summary,
-        "comparison_summary": load_json("event_comparisons_summary.json"),
-        "local_backtest_summary": local_backtest_summary,
-        "local_marked_positions": local_marked_positions,
-        "missing_stock_ids": sorted({row["stock_id"] for row in missing_prices}),
-        "ongoing_events": ongoing_events,
-        "upcoming_events": upcoming_events,
+        "local_summary": local_summary,
+        "monthly_summary": monthly_summary,
+        "backtest_summary": backtest_summary,
+        "parameter_backtest_summary": parameter_backtest_summary,
+        "batch_backtest_summary": batch_backtest_summary,
+        "batch_parameter_rankings": batch_rankings,
+        "batch_best_trades": [
+            {
+                **row,
+                "buy_price": parse_float(row.get("buy_price")),
+                "exit_price": parse_float(row.get("exit_price")),
+                "allocation_amount": parse_float(row.get("allocation_amount")),
+                "return_pct": parse_float(row.get("return_pct")),
+                "pnl_amount": parse_float(row.get("pnl_amount")),
+                "mom_pct": parse_float(row.get("mom_pct")),
+                "yoy_pct": parse_float(row.get("yoy_pct")),
+                "institutional_total_net_buy_shares": parse_float(row.get("institutional_total_net_buy_shares")),
+                "avg_volume_5d": parse_float(row.get("avg_volume_5d")),
+                "previous_volume_ratio_20d": parse_float(row.get("previous_volume_ratio_20d")),
+            }
+            for row in batch_best_trades
+        ],
+        "best_parameter_trades": [
+            {
+                **row,
+                "entry_price": parse_float(row.get("entry_price")),
+                "exit_price": parse_float(row.get("exit_price")),
+                "allocation_amount": parse_float(row.get("allocation_amount")),
+                "return_pct": parse_float(row.get("return_pct")),
+                "pnl_amount": parse_float(row.get("pnl_amount")),
+                "signal_score": parse_float(row.get("signal_score")),
+                "chip_score": parse_float(row.get("chip_score")),
+                "foreign_net_buy_shares": parse_float(row.get("foreign_net_buy_shares")),
+                "investment_trust_net_buy_shares": parse_float(row.get("investment_trust_net_buy_shares")),
+                "institutional_total_net_buy_shares": parse_float(row.get("institutional_total_net_buy_shares")),
+            }
+            for row in best_parameter_trades
+        ],
+        "main_gap_counts": gap_counts,
+        "skipped_by_reason": skipped_by_reason,
+        "active_events": active_events,
+        "future_events": future_events,
         "past_events": past_events,
-        "event_cards": event_cards,
+        "month_cards": month_cards,
+        "marked_positions": marked_positions,
+        "selected_preview": [
+            {
+                "event_id": row["event_id"],
+                "announcement_date": row["announcement_date"],
+                "stock_id": row["stock_id"],
+                "company_name": row["company_name"],
+                "title": row["title"],
+                "has_price_file": parse_bool(row.get("has_price_file")),
+                "has_compare_context": parse_bool(row.get("has_compare_context")),
+                "strategy_bucket": row["strategy_bucket"],
+            }
+            for row in selected_events
+        ],
+        "comparison_preview": {
+            "available_rows": len(comparisons),
+            "matched_main_rows": sum(
+                1 for row in main_events if row["event_id"] in comparison_by_event
+            ),
+            "unmatched_main_rows": [
+                row["event_id"] for row in main_events if row["event_id"] not in comparison_by_event
+            ],
+            "selected_but_not_main": [
+                row["event_id"] for row in selected_events if row["event_id"] not in main_event_by_id
+            ],
+            "selected_missing_comparison": [
+                row["event_id"] for row in selected_events if row["event_id"] not in comparison_by_event
+            ],
+            "selected_only_ids": [row["event_id"] for row in selected_by_id.values()],
+        },
     }
 
 

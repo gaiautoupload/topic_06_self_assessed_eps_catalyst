@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Topic 06 | 量化事件看板</title>
+    <title>Topic 06 | 自結 EPS 股價催化效應</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -19,7 +19,7 @@
           <p class="eyebrow">Quant Event Platform / Topic 06</p>
           <h1>自結 EPS 股價催化效應</h1>
           <p class="lede">
-            這不是研究筆記頁，而是未來要持續追蹤事件、監看交易、回看回測績效的量化觀看平台。
+            這一頁先聚焦 2026 上半年本地樣本，最上方展示目前正在交易的事件，下方放待補行情與待追蹤的未來事件，讓整個量化觀看平台先有可操作的主板。
           </p>
           <div class="author-chip">
             <span class="author-name">作者 pioter</span>
@@ -29,7 +29,7 @@
         <div class="hero-panel">
           <div class="panel-label">Live Monitor</div>
           <div class="panel-number" id="heroMainValue">--</div>
-          <div class="panel-note" id="heroMainNote">正在交易事件</div>
+          <div class="panel-note" id="heroMainNote">正在整理事件資料</div>
         </div>
       </header>
 
@@ -47,16 +47,16 @@
             <p class="eyebrow">Live Events</p>
             <h2>正在交易的事件</h2>
           </div>
-          <div class="section-intro">首頁最上面只放目前仍在交易窗口內的事件。若沒有符合條件，會顯示空狀態。</div>
+          <div class="section-intro">已納入月投組、且本地已有價格可追蹤的事件會顯示在這裡，方便你直接看目前報酬、前期變化與由虧轉盈訊號。</div>
           <div class="event-list" id="ongoingList"></div>
         </section>
 
         <section class="card wide">
           <div class="section-heading">
-            <p class="eyebrow">Upcoming Queue</p>
+            <p class="eyebrow">Future Queue</p>
             <h2>未來事件</h2>
           </div>
-          <div class="section-intro">這一區預留給尚未進入交易視窗的事件。目前資料集還沒有未來樣本。</div>
+          <div class="section-intro">這裡先放已挑出的主策略事件，但還缺行情或需要補資料的標的。等資料補齊後，就能逐步轉進上方的交易區。</div>
           <div class="event-list" id="upcomingList"></div>
         </section>
       </main>

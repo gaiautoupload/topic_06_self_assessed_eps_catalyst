@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+config.txt
+*brain*
+*secret*
+*.local.txt

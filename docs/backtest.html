@@ -18,7 +18,7 @@
         <div>
           <p class="eyebrow">Backtest</p>
           <h1>回測績效</h1>
-          <p class="lede">把固定持有期的結果拆開看，知道現在平台展示的是什麼，也知道目前資料量還差多少。</p>
+          <p class="lede">先展示 2026 年 1 到 6 月、每月 100 萬、最多 5 檔持倉的本地回測與持倉標記結果，讓你可以直接看平均報酬、勝率與資料覆蓋現況。</p>
         </div>
         <div class="author-chip compact">
           <span class="author-name">作者 pioter</span>
@@ -37,18 +37,34 @@
 
         <section class="card wide">
           <div class="section-heading">
-            <p class="eyebrow">Trade Windows</p>
-            <h2>固定持有期結果</h2>
+            <p class="eyebrow">Marked Positions</p>
+            <h2>目前持倉</h2>
           </div>
           <div class="trade-table" id="tradeTable"></div>
+        </section>
+
+        <section class="card wide">
+          <div class="section-heading">
+            <p class="eyebrow">Parameter Ranking</p>
+            <h2>其他參數組合排行</h2>
+          </div>
+          <div class="trade-table" id="parameterRankingTable"></div>
         </section>
 
         <section class="card">
           <div class="section-heading">
             <p class="eyebrow">Coverage Reality</p>
-            <h2>資料現況</h2>
+            <h2>覆蓋現況</h2>
           </div>
           <div class="story-bars" id="coverageBars"></div>
+        </section>
+
+        <section class="card wide">
+          <div class="section-heading">
+            <p class="eyebrow">Monthly Allocation</p>
+            <h2>每月資金配置</h2>
+          </div>
+          <div class="metrics" id="monthCards"></div>
         </section>
       </main>
     </div>

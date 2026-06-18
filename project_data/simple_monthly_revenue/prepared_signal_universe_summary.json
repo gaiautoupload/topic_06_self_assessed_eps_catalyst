@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-06-18T16:49:13",
+  "input_revenue_rows": 9860,
+  "prepared_rows": 7361,
+  "skipped": {
+    "missing_price_file": 0,
+    "missing_entry": 2499
+  },
+  "outputs": {
+    "csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\simple_monthly_revenue\\prepared_signal_universe.csv",
+    "json": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\simple_monthly_revenue\\prepared_signal_universe.json"
+  },
+  "no_lookahead": "buy_date is the first trading day after announcement_date; volume and breakout factors use data before buy_date."
+}

@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-06-18T17:01:21",
+  "signal_rows": 7361,
+  "has_eps_quality": false,
+  "parameter_sets": 14700,
+  "target_positions_per_month": 5,
+  "best": {
+    "parameter_id": "vol5_0_high60_instany_epsloany_epshiany_sl10_tpnone_month_end",
+    "min_avg_volume_5d": 0.0,
+    "price_breakout_days": 60,
+    "min_institutional_net_buy": null,
+    "eps_quality_clip_low": null,
+    "eps_quality_clip_high": null,
+    "stop_loss": 0.1,
+    "take_profit": null,
+    "exit_rule": "month_end",
+    "filtered": 163,
+    "selected": 25,
+    "trades": 25,
+    "covered_trade_months": 5,
+    "full_trade_months": 5,
+    "min_trades_per_month": 5,
+    "finalized_trades": 22,
+    "as_of_latest_trades": 3,
+    "win_rate": 0.56,
+    "avg_return_pct": 0.153689,
+    "total_pnl_amount": 768442.95,
+    "invested_amount": 5000000.0,
+    "portfolio_return_pct": 0.153689
+  },
+  "outputs": {
+    "result_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\simple_monthly_revenue\\batch_parameter_results.csv",
+    "best_trades_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\simple_monthly_revenue\\batch_best_trades.csv"
+  }
+}
