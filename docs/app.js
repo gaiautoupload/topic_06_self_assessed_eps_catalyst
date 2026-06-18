@@ -369,3 +369,68 @@ function initBatchBacktest() {
 }
 
 if (page === "backtest") initBatchBacktest();
+
+function renderStrategySwitcher() {
+  const target = document.getElementById("strategySwitcher");
+  if (!target) return;
+  const strategies = data.strategy_cards || [];
+  if (!strategies.length) {
+    target.innerHTML = `<div class="empty-state">暫時沒有策略資料。</div>`;
+    return;
+  }
+  target.innerHTML = strategies.map((strategy, index) => `
+    <button class="strategy-pill ${index === 0 ? "is-active" : ""}" data-strategy-index="${index}">
+      <span class="strategy-pill-name">${strategy.name}</span>
+      <span class="strategy-pill-label">${strategy.label}</span>
+    </button>
+  `).join("");
+}
+
+function renderTopFive(strategyIndex = 0) {
+  const target = document.getElementById("topFiveGrid");
+  if (!target) return;
+  const strategy = (data.strategy_cards || [])[strategyIndex] || (data.strategy_cards || [])[0];
+  const sourceRows = strategyIndex === 0 ? (data.batch_best_trades || []) : (data.best_parameter_trades || []);
+  const rows = sourceRows.slice(0, 5);
+  if (!rows.length) {
+    target.innerHTML = `<div class="empty-state">目前沒有可顯示的前五名預測。</div>`;
+    return;
+  }
+  target.innerHTML = `
+    <div class="strategy-summary">
+      <div class="eyebrow">${strategy.name}</div>
+      <div class="strategy-summary-title">${strategy.label}</div>
+      <div class="strategy-summary-note">目前顯示預測前五名，依既有策略回測結果排序。</div>
+    </div>
+    <div class="strategy-top-five">
+      ${rows.map((row, index) => `
+        <article class="top-five-card">
+          <div class="top-five-rank">#${index + 1}</div>
+          <div class="top-five-name">${row.company_name || row.stock_id}</div>
+          <div class="top-five-meta">${row.stock_id || ""} ${row.revenue_month ? `· ${row.revenue_month}` : ""}</div>
+          <div class="top-five-score ${Number(row.return_pct || row.portfolio_return_pct || 0) >= 0 ? "positive-text" : "negative-text"}">
+            ${fmtPct(row.return_pct ?? row.portfolio_return_pct)}
+          </div>
+        </article>
+      `).join("")}
+    </div>
+  `;
+}
+
+function initHomeDashboard() {
+  renderStrategySwitcher();
+  renderTopFive(0);
+  const switcher = document.getElementById("strategySwitcher");
+  if (switcher) {
+    switcher.addEventListener("click", (event) => {
+      const button = event.target.closest(".strategy-pill");
+      if (!button) return;
+      const index = Number(button.dataset.strategyIndex || 0);
+      switcher.querySelectorAll(".strategy-pill").forEach((node) => node.classList.remove("is-active"));
+      button.classList.add("is-active");
+      renderTopFive(index);
+    });
+  }
+}
+
+if (page === "home") initHomeDashboard();

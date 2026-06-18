@@ -1,7 +1,7 @@
 window.TOPIC06_DATA = {
   "meta": {
     "title": "Topic 06: Self-Assessed EPS Catalyst",
-    "today": "2026-06-18",
+    "today": "2026-06-19",
     "author": "pioter",
     "author_tagline": "分析師+1000"
   },
@@ -3076,6 +3076,75 @@ window.TOPIC06_DATA = {
       "institutional_total_net_buy_shares": 20391.0,
       "avg_volume_5d": 188600.0,
       "previous_volume_ratio_20d": 4.7749510763209395
+    }
+  ],
+  "strategy_cards": [
+    {
+      "name": "月營收催化",
+      "summary": {
+        "parameter_id": "vol5_0_high60_instany_epsloany_epshiany_sl10_tpnone_month_end",
+        "min_avg_volume_5d": 0.0,
+        "price_breakout_days": 60,
+        "min_institutional_net_buy": null,
+        "eps_quality_clip_low": null,
+        "eps_quality_clip_high": null,
+        "stop_loss": 0.1,
+        "take_profit": null,
+        "exit_rule": "month_end",
+        "filtered": 163,
+        "selected": 25,
+        "trades": 25,
+        "covered_trade_months": 5,
+        "full_trade_months": 5,
+        "min_trades_per_month": 5,
+        "finalized_trades": 22,
+        "as_of_latest_trades": 3,
+        "win_rate": 0.56,
+        "avg_return_pct": 0.153689,
+        "total_pnl_amount": 768442.95,
+        "invested_amount": 5000000.0,
+        "portfolio_return_pct": 0.153689
+      },
+      "label": "現行主策略",
+      "rank": 1
+    },
+    {
+      "name": "EPS 催化",
+      "summary": {
+        "parameter_id": "top10_rev0_eps0_poseps1_rise1_instany_foreign0_trust0_month_end",
+        "top_n": 10,
+        "min_revenue_yoy_pct": 0.0,
+        "min_eps_yoy_pct": 0.0,
+        "require_positive_eps": true,
+        "require_three_rises": true,
+        "min_institutional_net_buy_shares": null,
+        "require_foreign_net_buy": false,
+        "require_investment_trust_net_buy": false,
+        "exit_rule": "month_end",
+        "candidates": 2,
+        "selected": 2,
+        "trades": 2,
+        "finalized_trades": 0,
+        "as_of_latest_trades": 2,
+        "win_rate": 1.0,
+        "avg_return_pct": 0.075157,
+        "total_pnl_amount": 75156.5,
+        "invested_amount": 1000000.0,
+        "portfolio_return_pct": 0.075157
+      },
+      "label": "歷史策略",
+      "rank": 2
+    },
+    {
+      "name": "打分制探索",
+      "summary": {
+        "win_rate": null,
+        "portfolio_return_pct": null,
+        "avg_return_pct": null,
+        "total_pnl_amount": null
+      },
+      "label": "新一輪挖掘",
+      "rank": 3
     }
   ],
   "best_parameter_trades": [

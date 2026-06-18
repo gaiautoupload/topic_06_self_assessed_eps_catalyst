@@ -196,6 +196,31 @@ def build_payload() -> dict:
         }
 
     batch_rankings = [numeric_batch_row(row) for row in batch_parameter_results[:100]]
+    strategy_cards = [
+        {
+            "name": "月營收催化",
+            "summary": batch_backtest_summary.get("best", {}),
+            "label": "現行主策略",
+            "rank": 1,
+        },
+        {
+            "name": "EPS 催化",
+            "summary": parameter_backtest_summary.get("best", {}),
+            "label": "歷史策略",
+            "rank": 2,
+        },
+        {
+            "name": "打分制探索",
+            "summary": {
+                "win_rate": None,
+                "portfolio_return_pct": None,
+                "avg_return_pct": None,
+                "total_pnl_amount": None,
+            },
+            "label": "新一輪挖掘",
+            "rank": 3,
+        },
+    ]
 
     return {
         "meta": {
@@ -237,6 +262,7 @@ def build_payload() -> dict:
             }
             for row in batch_best_trades
         ],
+        "strategy_cards": strategy_cards,
         "best_parameter_trades": [
             {
                 **row,

@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-06-19T02:20:15",
+  "signal_rows": 7361,
+  "eligible_rows": 2742,
+  "winner_rows": 2742,
+  "trade_rows": 2711,
+  "targets": {
+    "win_rate": 0.7,
+    "avg_return_pct": 0.3,
+    "monthly_avg_return_pct": 0.7
+  },
+  "best_combo": {
+    "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,breakout_20d",
+    "trades": 5,
+    "months": 3,
+    "win_rate": 1.0,
+    "avg_return_pct": 0.219032,
+    "median_return_pct": 0.172996,
+    "monthly_avg_return_pct": 0.231745,
+    "hit_goal": false
+  },
+  "stopped_early": false
+}

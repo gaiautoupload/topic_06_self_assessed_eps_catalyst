@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-06-19T03:19:26",
+  "trades": 2711,
+  "tunes": [
+    {
+      "chip": 1.0,
+      "tech": 1.0,
+      "fundamental": 1.0
+    },
+    {
+      "chip": 1.2,
+      "tech": 1.0,
+      "fundamental": 0.8
+    },
+    {
+      "chip": 1.0,
+      "tech": 1.2,
+      "fundamental": 0.8
+    },
+    {
+      "chip": 1.2,
+      "tech": 1.2,
+      "fundamental": 0.7
+    }
+  ],
+  "best": {
+    "tune_index": 0,
+    "threshold": 0.0,
+    "chip_weight": 1.0,
+    "tech_weight": 1.0,
+    "fundamental_weight": 1.0,
+    "trades": 25,
+    "months": 5,
+    "min_trades_per_month": 5,
+    "win_rate": 0.6,
+    "avg_return_pct": 0.044891,
+    "monthly_avg_return_pct": 0.044891,
+    "objective": 0.322445
+  },
+  "goal_hit": false
+}
