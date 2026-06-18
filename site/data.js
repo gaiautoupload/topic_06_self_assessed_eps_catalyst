@@ -172,7 +172,16 @@ window.TOPIC06_DATA = {
     },
     "stopped_early": false
   },
-  "winner_factor_best": {},
+  "winner_factor_best": {
+    "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,breakout_20d",
+    "trades": 5,
+    "months": 3,
+    "win_rate": 1.0,
+    "avg_return_pct": 0.219032,
+    "median_return_pct": 0.172996,
+    "monthly_avg_return_pct": 0.231745,
+    "hit_goal": false
+  },
   "june_holdings": [
     {
       "parameter_id": "vol5_0_high60_instany_epsloany_epshiany_sl10_tpnone_month_end",

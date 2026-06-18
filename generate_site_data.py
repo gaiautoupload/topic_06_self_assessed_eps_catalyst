@@ -198,7 +198,7 @@ def build_payload() -> dict:
     batch_rankings = [numeric_batch_row(row) for row in batch_parameter_results[:100]]
     winner_factor_summary = load_json(SIMPLE_REVENUE_DIR / "winner_factor_mining" / "winner_factor_summary.json")
     winner_factor_results = load_csv(SIMPLE_REVENUE_DIR / "winner_factor_mining" / "winner_factor_results.csv")
-    winner_factor_best = winner_factor_summary.get("best", {})
+    winner_factor_best = winner_factor_summary.get("best_combo", winner_factor_summary.get("best", {}))
     june_holdings = [
         row for row in batch_best_trades
         if str(row.get("buy_date", "")).startswith("2026-06")
