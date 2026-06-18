@@ -1,0 +1,2 @@
+﻿event_id,stock_id,company_name,event_type,signal_strength,announcement_date,announcement_time,entry_date,close,eps_value,implied_pe,price_file_found,price_rows_scanned,signal_reason
+mops_1101_20220124_230454_1,1101,台泥,self_assessed_profit,B,2022-01-24,23:04:54,2022-01-25,46.8,,,True,1475,price_only_or_nonpositive_eps

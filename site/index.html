@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Topic 06: 自結 EPS 股價催化效應</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Taiwan Event Strategy / Topic 06</p>
+          <h1>自結 EPS 股價催化效應</h1>
+          <p class="lede">
+            用最小可執行資料管線，把自結 EPS / 自結獲利公告轉成事件、價格快照與固定持有期回測。
+          </p>
+        </div>
+        <div class="hero-panel">
+          <div class="panel-label">Current Read</div>
+          <div class="panel-number" id="heroCoverage">--</div>
+          <div class="panel-note">價格資料覆蓋率</div>
+        </div>
+      </header>
+
+      <main class="content-grid">
+        <section class="metrics" id="metrics"></section>
+
+        <section class="card story-card">
+          <div class="section-heading">
+            <p class="eyebrow">Pipeline</p>
+            <h2>目前進度</h2>
+          </div>
+          <div class="story-layout">
+            <div class="story-copy">
+              <p>
+                這一版網站直接綁定專案輸出，不等後端服務。資料來源是
+                <code>events.csv</code>、<code>valuation_snapshot.csv</code> 與
+                <code>trades.csv</code>。
+              </p>
+              <p>
+                因為現在價格資料只覆蓋少數股票，所以網站也會直接把資料缺口亮出來，避免我們誤判策略本身。
+              </p>
+            </div>
+            <div class="story-bars" id="coverageBars"></div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="section-heading">
+            <p class="eyebrow">Event Board</p>
+            <h2>事件清單</h2>
+          </div>
+          <div class="filters">
+            <button class="filter-chip is-active" data-filter="all">全部</button>
+            <button class="filter-chip" data-filter="priced">有價格</button>
+            <button class="filter-chip" data-filter="missing_price">缺價格</button>
+            <button class="filter-chip" data-filter="A">A 級</button>
+            <button class="filter-chip" data-filter="B">B 級</button>
+          </div>
+          <div class="event-list" id="eventList"></div>
+        </section>
+
+        <section class="card wide">
+          <div class="section-heading">
+            <p class="eyebrow">Coverage Gap</p>
+            <h2>待補價格資料股票</h2>
+          </div>
+          <div class="missing-grid" id="missingGrid"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

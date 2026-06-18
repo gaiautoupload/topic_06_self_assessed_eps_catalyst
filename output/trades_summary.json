@@ -1,0 +1,12 @@
+{
+  "snapshots": 1,
+  "trades": 3,
+  "skipped": 0,
+  "windows": [
+    5,
+    10,
+    20
+  ],
+  "trade_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\output\\trades.csv",
+  "skipped_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\output\\trades_skipped.csv"
+}

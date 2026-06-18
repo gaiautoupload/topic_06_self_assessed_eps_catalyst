@@ -1,0 +1,9 @@
+{
+  "events": 37,
+  "snapshots": 1,
+  "missing_prices": 36,
+  "coverage_ratio": 0.027,
+  "events_with_implied_pe": 0,
+  "snapshot_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\output\\valuation_snapshot.csv",
+  "missing_price_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\output\\valuation_missing_prices.csv"
+}
