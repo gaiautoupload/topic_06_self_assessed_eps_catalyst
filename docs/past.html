@@ -3,57 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Topic 06 | 過去事件</title>
+    <title>Topic 06 | 策略室</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body data-page="past">
     <div class="page-shell">
       <header class="subhero">
         <div>
-          <p class="eyebrow">Archive</p>
-          <h1>過去事件</h1>
-          <p class="lede">這裡收所有已挑出過的主策略事件，方便回頭檢查公告內容、比較基準、行情覆蓋與是否已進入月投組。</p>
+          <p class="eyebrow">Strategy Room</p>
+          <h1>策略條件 / 歷史操作</h1>
+          <p class="lede">這一頁只放回測條件索引與不同策略的歷史操作記錄。點進去看每個策略怎麼交易，不再放雜訊。</p>
         </div>
         <div class="author-chip compact">
-          <span class="author-name">作者 pioter</span>
+          <span class="author-name">pioter</span>
           <span class="author-role">分析師+1000</span>
         </div>
       </header>
 
       <nav class="top-nav">
         <a class="nav-link" href="./index.html">正在交易</a>
-        <a class="nav-link is-active" href="./past.html">過去事件</a>
-        <a class="nav-link" href="./backtest.html">回測績效</a>
+        <a class="nav-link is-active" href="./past.html">策略與歷史</a>
       </nav>
 
       <main class="content-grid">
         <section class="card wide">
           <div class="section-heading">
-            <p class="eyebrow">History Board</p>
-            <h2>事件資料板</h2>
+            <p class="eyebrow">Strategy Index</p>
+            <h2>回測條件總表</h2>
           </div>
-          <div class="filters">
-            <button class="filter-chip is-active" data-filter="all">全部</button>
-            <button class="filter-chip" data-filter="priced">有行情</button>
-            <button class="filter-chip" data-filter="missing_price">缺行情</button>
-            <button class="filter-chip" data-filter="selected">已選入</button>
-            <button class="filter-chip" data-filter="turnaround_loss_to_profit">由虧轉盈</button>
-          </div>
-          <div class="event-list" id="pastList"></div>
+          <div class="filter-palette" id="strategyPalette"></div>
         </section>
 
         <section class="card wide">
           <div class="section-heading">
-            <p class="eyebrow">Coverage Gap</p>
-            <h2>資料缺口總覽</h2>
+            <p class="eyebrow">History</p>
+            <h2>策略歷史操作紀錄</h2>
           </div>
-          <div class="missing-grid" id="missingGrid"></div>
+          <div class="history-selector" id="historySelector"></div>
+          <div class="trade-table" id="strategyHistoryTable"></div>
         </section>
       </main>
     </div>
