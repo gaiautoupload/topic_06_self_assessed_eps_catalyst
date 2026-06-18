@@ -32,6 +32,14 @@
 - `trades.parquet`
   - 回測用交易紀錄。
 
+## 靜態網站
+
+- 原始前端檔放在 `site/`
+- GitHub Pages 用的發佈目錄放在 `docs/`
+- 每次更新網站資料後，依序執行：
+  - `python generate_site_data.py`
+  - `python sync_site_to_docs.py`
+
 ## 事件定義
 
 主事件為公告中明確出現自結 EPS、自結獲利或可由公告內容推算 EPS 的公告。
@@ -75,4 +83,3 @@
 - [ ] 串接價格資料與估值快照
 - [ ] 產出 trades 回測結果
 - [ ] 補上靜態網頁展示頁
-
