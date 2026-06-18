@@ -182,6 +182,25828 @@ window.TOPIC06_DATA = {
     "monthly_avg_return_pct": 0.231745,
     "hit_goal": false
   },
+  "winner_factor_results": [
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 5.0,
+      "months": 3.0,
+      "win_rate": 1.0,
+      "avg_return_pct": 0.219032,
+      "median_return_pct": "0.172996",
+      "monthly_avg_return_pct": 0.231745,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 5.0,
+      "months": 3.0,
+      "win_rate": 1.0,
+      "avg_return_pct": 0.219032,
+      "median_return_pct": "0.172996",
+      "monthly_avg_return_pct": 0.231745,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 5.0,
+      "months": 3.0,
+      "win_rate": 1.0,
+      "avg_return_pct": 0.219032,
+      "median_return_pct": "0.172996",
+      "monthly_avg_return_pct": 0.231745,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 5.0,
+      "months": 3.0,
+      "win_rate": 1.0,
+      "avg_return_pct": 0.219032,
+      "median_return_pct": "0.172996",
+      "monthly_avg_return_pct": 0.231745,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.173973,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.197139,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 20.0,
+      "months": 4.0,
+      "win_rate": 0.8,
+      "avg_return_pct": 0.202204,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.188189,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.782609,
+      "avg_return_pct": 0.195637,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.187055,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.115033,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.17815,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.115374,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.177018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.111575,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.174907,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.111575,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.174907,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.111575,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.174907,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.111575,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.174907,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.730769,
+      "avg_return_pct": 0.112035,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.174213,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.730769,
+      "avg_return_pct": 0.112035,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.174213,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.730769,
+      "avg_return_pct": 0.112035,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.174213,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.730769,
+      "avg_return_pct": 0.112035,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.174213,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.733333,
+      "avg_return_pct": 0.109169,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.168411,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.733333,
+      "avg_return_pct": 0.109169,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.168411,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.0961,
+      "median_return_pct": "0.068041",
+      "monthly_avg_return_pct": 0.166789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 23.0,
+      "months": 5.0,
+      "win_rate": 0.695652,
+      "avg_return_pct": 0.094906,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.166622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.106806,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.165789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.106806,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.165789,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.093398,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164809,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.093398,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164809,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.093398,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164809,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 25.0,
+      "months": 5.0,
+      "win_rate": 0.72,
+      "avg_return_pct": 0.093398,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164809,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.092142,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164415,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.092142,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164415,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.092142,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164415,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 24.0,
+      "months": 5.0,
+      "win_rate": 0.708333,
+      "avg_return_pct": 0.092142,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.164415,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.724138,
+      "avg_return_pct": 0.093004,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.160018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.724138,
+      "avg_return_pct": 0.093004,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.160018,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.741935,
+      "avg_return_pct": 0.091607,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.158106,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.741935,
+      "avg_return_pct": 0.091607,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.158106,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.143884,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.154485,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.143884,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.154485,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.143884,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.154485,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.143884,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.154485,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.163381,
+      "median_return_pct": "0.127258",
+      "monthly_avg_return_pct": 0.153673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.163381,
+      "median_return_pct": "0.127258",
+      "monthly_avg_return_pct": 0.153673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.163381,
+      "median_return_pct": "0.127258",
+      "monthly_avg_return_pct": 0.153673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.163381,
+      "median_return_pct": "0.127258",
+      "monthly_avg_return_pct": 0.153673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.081165,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.14353,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.68,
+      "avg_return_pct": 0.125259,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.142179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 121.0,
+      "months": 5.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.123459,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.140765,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 121.0,
+      "months": 5.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.123459,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.140765,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.167319,
+      "median_return_pct": "0.133333",
+      "monthly_avg_return_pct": 0.140274,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 115.0,
+      "months": 5.0,
+      "win_rate": 0.721739,
+      "avg_return_pct": 0.120458,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.139123,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 115.0,
+      "months": 5.0,
+      "win_rate": 0.721739,
+      "avg_return_pct": 0.120458,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.139123,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.12105,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.137643,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 54.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.117113,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.137315,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 54.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.117113,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.137315,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 70.0,
+      "months": 5.0,
+      "win_rate": 0.7,
+      "avg_return_pct": 0.123567,
+      "median_return_pct": "0.052901",
+      "monthly_avg_return_pct": 0.135504,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 3.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.166508,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.135278,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 59.0,
+      "months": 5.0,
+      "win_rate": 0.661017,
+      "avg_return_pct": 0.11388,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.133539,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 59.0,
+      "months": 5.0,
+      "win_rate": 0.661017,
+      "avg_return_pct": 0.11388,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.133539,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.148364,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.127544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 128.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.117099,
+      "median_return_pct": "0.038415",
+      "monthly_avg_return_pct": 0.126791,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 128.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.117099,
+      "median_return_pct": "0.038415",
+      "monthly_avg_return_pct": 0.126791,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 123.0,
+      "months": 5.0,
+      "win_rate": 0.707317,
+      "avg_return_pct": 0.116841,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.126672,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 123.0,
+      "months": 5.0,
+      "win_rate": 0.707317,
+      "avg_return_pct": 0.116841,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.126672,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k",
+      "trades": 84.0,
+      "months": 5.0,
+      "win_rate": 0.761905,
+      "avg_return_pct": 0.128397,
+      "median_return_pct": "0.091493",
+      "monthly_avg_return_pct": 0.126291,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_100k",
+      "trades": 84.0,
+      "months": 5.0,
+      "win_rate": 0.761905,
+      "avg_return_pct": 0.128397,
+      "median_return_pct": "0.091493",
+      "monthly_avg_return_pct": 0.126291,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k",
+      "trades": 84.0,
+      "months": 5.0,
+      "win_rate": 0.761905,
+      "avg_return_pct": 0.128397,
+      "median_return_pct": "0.091493",
+      "monthly_avg_return_pct": 0.126291,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_100k",
+      "trades": 84.0,
+      "months": 5.0,
+      "win_rate": 0.761905,
+      "avg_return_pct": 0.128397,
+      "median_return_pct": "0.091493",
+      "monthly_avg_return_pct": 0.126291,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 84.0,
+      "months": 5.0,
+      "win_rate": 0.761905,
+      "avg_return_pct": 0.128397,
+      "median_return_pct": "0.091493",
+      "monthly_avg_return_pct": 0.126291,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 84.0,
+      "months": 5.0,
+      "win_rate": 0.761905,
+      "avg_return_pct": 0.128397,
+      "median_return_pct": "0.091493",
+      "monthly_avg_return_pct": 0.126291,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 122.0,
+      "months": 5.0,
+      "win_rate": 0.713115,
+      "avg_return_pct": 0.113957,
+      "median_return_pct": "0.042929",
+      "monthly_avg_return_pct": 0.124949,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 122.0,
+      "months": 5.0,
+      "win_rate": 0.713115,
+      "avg_return_pct": 0.113957,
+      "median_return_pct": "0.042929",
+      "monthly_avg_return_pct": 0.124949,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_100k",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_100k",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 77.0,
+      "months": 5.0,
+      "win_rate": 0.753247,
+      "avg_return_pct": 0.127545,
+      "median_return_pct": "0.084531",
+      "monthly_avg_return_pct": 0.123644,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 80.0,
+      "months": 5.0,
+      "win_rate": 0.6875,
+      "avg_return_pct": 0.111134,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.123416,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.731959,
+      "avg_return_pct": 0.134792,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.122418,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.731959,
+      "avg_return_pct": 0.134792,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.122418,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.731959,
+      "avg_return_pct": 0.134792,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.122418,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.731959,
+      "avg_return_pct": 0.134792,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.122418,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 91.0,
+      "months": 5.0,
+      "win_rate": 0.725275,
+      "avg_return_pct": 0.131746,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.121349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 91.0,
+      "months": 5.0,
+      "win_rate": 0.725275,
+      "avg_return_pct": 0.131746,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.121349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 91.0,
+      "months": 5.0,
+      "win_rate": 0.725275,
+      "avg_return_pct": 0.131746,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.121349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 91.0,
+      "months": 5.0,
+      "win_rate": 0.725275,
+      "avg_return_pct": 0.131746,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.121349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.091578,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.120131,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 55.0,
+      "months": 5.0,
+      "win_rate": 0.672727,
+      "avg_return_pct": 0.091578,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.120131,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.057371,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.11973,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 8.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.06402,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.119451,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 96.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.129244,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.11923,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 96.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.129244,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.11923,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 96.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.129244,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.11923,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 96.0,
+      "months": 5.0,
+      "win_rate": 0.71875,
+      "avg_return_pct": 0.129244,
+      "median_return_pct": "0.048611",
+      "monthly_avg_return_pct": 0.11923,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k",
+      "trades": 113.0,
+      "months": 5.0,
+      "win_rate": 0.743363,
+      "avg_return_pct": 0.121591,
+      "median_return_pct": "0.087943",
+      "monthly_avg_return_pct": 0.118753,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive",
+      "trades": 113.0,
+      "months": 5.0,
+      "win_rate": 0.743363,
+      "avg_return_pct": 0.121591,
+      "median_return_pct": "0.087943",
+      "monthly_avg_return_pct": 0.118753,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.75,
+      "avg_return_pct": 0.094842,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.117625,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 131.0,
+      "months": 5.0,
+      "win_rate": 0.694656,
+      "avg_return_pct": 0.110053,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.11622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 131.0,
+      "months": 5.0,
+      "win_rate": 0.694656,
+      "avg_return_pct": 0.110053,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.11622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.154539,
+      "median_return_pct": "0.059574",
+      "monthly_avg_return_pct": 0.114833,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.154539,
+      "median_return_pct": "0.059574",
+      "monthly_avg_return_pct": 0.114833,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.154539,
+      "median_return_pct": "0.059574",
+      "monthly_avg_return_pct": 0.114833,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.714286,
+      "avg_return_pct": 0.154539,
+      "median_return_pct": "0.059574",
+      "monthly_avg_return_pct": 0.114833,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.082474,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.114712,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.086133,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.112803,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.078521,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.112368,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.078521,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.112368,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.078521,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.112368,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.078521,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.112368,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.135159,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.11162,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.135159,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.11162,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.135159,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.11162,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.135159,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.11162,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 26.0,
+      "months": 5.0,
+      "win_rate": 0.692308,
+      "avg_return_pct": 0.088184,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.111544,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.689655,
+      "avg_return_pct": 0.084148,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.111054,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.689655,
+      "avg_return_pct": 0.084148,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.111054,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.689655,
+      "avg_return_pct": 0.084148,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.111054,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.689655,
+      "avg_return_pct": 0.084148,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.111054,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 6.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.077549,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.110634,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.085976,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.109621,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.085976,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.109621,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.085976,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.109621,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.085976,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.109621,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 8.0,
+      "months": 3.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.140152,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.109349,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.132305,
+      "median_return_pct": "0.034091",
+      "monthly_avg_return_pct": 0.108097,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.6875,
+      "avg_return_pct": 0.101825,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.106436,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.6875,
+      "avg_return_pct": 0.101825,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.106436,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.6875,
+      "avg_return_pct": 0.101825,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.106436,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.6875,
+      "avg_return_pct": 0.101825,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.106436,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.101898,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.105768,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 64.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.092078,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.105188,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 64.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.092078,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.105188,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 64.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.092078,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.105188,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.69697,
+      "avg_return_pct": 0.085062,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.102617,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.69697,
+      "avg_return_pct": 0.085062,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.102617,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 36.0,
+      "months": 5.0,
+      "win_rate": 0.694444,
+      "avg_return_pct": 0.08181,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.102192,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 36.0,
+      "months": 5.0,
+      "win_rate": 0.694444,
+      "avg_return_pct": 0.08181,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.102192,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5",
+      "trades": 192.0,
+      "months": 5.0,
+      "win_rate": 0.734375,
+      "avg_return_pct": 0.122191,
+      "median_return_pct": "0.050109",
+      "monthly_avg_return_pct": 0.101673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 192.0,
+      "months": 5.0,
+      "win_rate": 0.734375,
+      "avg_return_pct": 0.122191,
+      "median_return_pct": "0.050109",
+      "monthly_avg_return_pct": 0.101673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 192.0,
+      "months": 5.0,
+      "win_rate": 0.734375,
+      "avg_return_pct": 0.122191,
+      "median_return_pct": "0.050109",
+      "monthly_avg_return_pct": 0.101673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 192.0,
+      "months": 5.0,
+      "win_rate": 0.734375,
+      "avg_return_pct": 0.122191,
+      "median_return_pct": "0.050109",
+      "monthly_avg_return_pct": 0.101673,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.099672,
+      "median_return_pct": "0.064599",
+      "monthly_avg_return_pct": 0.099959,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.099672,
+      "median_return_pct": "0.064599",
+      "monthly_avg_return_pct": 0.099959,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.099672,
+      "median_return_pct": "0.064599",
+      "monthly_avg_return_pct": 0.099959,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k",
+      "trades": 143.0,
+      "months": 5.0,
+      "win_rate": 0.699301,
+      "avg_return_pct": 0.102107,
+      "median_return_pct": "0.079867",
+      "monthly_avg_return_pct": 0.099653,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 143.0,
+      "months": 5.0,
+      "win_rate": 0.699301,
+      "avg_return_pct": 0.102107,
+      "median_return_pct": "0.079867",
+      "monthly_avg_return_pct": 0.099653,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_100k",
+      "trades": 145.0,
+      "months": 5.0,
+      "win_rate": 0.703448,
+      "avg_return_pct": 0.10147,
+      "median_return_pct": "0.079867",
+      "monthly_avg_return_pct": 0.099054,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.093053,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.098518,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,inst_buy_gt_100k",
+      "trades": 99.0,
+      "months": 5.0,
+      "win_rate": 0.606061,
+      "avg_return_pct": 0.088161,
+      "median_return_pct": "0.036822",
+      "monthly_avg_return_pct": 0.097802,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 16.0,
+      "months": 4.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.097315,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.0976,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 48.0,
+      "months": 5.0,
+      "win_rate": 0.645833,
+      "avg_return_pct": 0.095069,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.097434,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 48.0,
+      "months": 5.0,
+      "win_rate": 0.645833,
+      "avg_return_pct": 0.095069,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.097434,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 48.0,
+      "months": 5.0,
+      "win_rate": 0.645833,
+      "avg_return_pct": 0.095069,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.097434,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m",
+      "trades": 121.0,
+      "months": 5.0,
+      "win_rate": 0.694215,
+      "avg_return_pct": 0.104195,
+      "median_return_pct": "0.083041",
+      "monthly_avg_return_pct": 0.096232,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k",
+      "trades": 121.0,
+      "months": 5.0,
+      "win_rate": 0.694215,
+      "avg_return_pct": 0.104195,
+      "median_return_pct": "0.083041",
+      "monthly_avg_return_pct": 0.096232,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_100k",
+      "trades": 121.0,
+      "months": 5.0,
+      "win_rate": 0.694215,
+      "avg_return_pct": 0.104195,
+      "median_return_pct": "0.083041",
+      "monthly_avg_return_pct": 0.096232,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 121.0,
+      "months": 5.0,
+      "win_rate": 0.694215,
+      "avg_return_pct": 0.104195,
+      "median_return_pct": "0.083041",
+      "monthly_avg_return_pct": 0.096232,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 277.0,
+      "months": 5.0,
+      "win_rate": 0.700361,
+      "avg_return_pct": 0.103743,
+      "median_return_pct": "0.042929",
+      "monthly_avg_return_pct": 0.095354,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 277.0,
+      "months": 5.0,
+      "win_rate": 0.700361,
+      "avg_return_pct": 0.103743,
+      "median_return_pct": "0.042929",
+      "monthly_avg_return_pct": 0.095354,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k",
+      "trades": 58.0,
+      "months": 5.0,
+      "win_rate": 0.62069,
+      "avg_return_pct": 0.090242,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.094441,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 58.0,
+      "months": 5.0,
+      "win_rate": 0.62069,
+      "avg_return_pct": 0.090242,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.094441,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 58.0,
+      "months": 5.0,
+      "win_rate": 0.62069,
+      "avg_return_pct": 0.090242,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.094441,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 58.0,
+      "months": 5.0,
+      "win_rate": 0.62069,
+      "avg_return_pct": 0.090242,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.094441,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.096388,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.094427,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.727273,
+      "avg_return_pct": 0.076618,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.093824,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.094881,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.092891,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.094881,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.092891,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.094881,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.092891,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.094881,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.092891,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 80.0,
+      "months": 5.0,
+      "win_rate": 0.6125,
+      "avg_return_pct": 0.090943,
+      "median_return_pct": "0.036822",
+      "monthly_avg_return_pct": 0.092739,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.093902,
+      "median_return_pct": "0.056962",
+      "monthly_avg_return_pct": 0.091373,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,foreign_buy_gt_100k",
+      "trades": 82.0,
+      "months": 5.0,
+      "win_rate": 0.609756,
+      "avg_return_pct": 0.088461,
+      "median_return_pct": "0.036822",
+      "monthly_avg_return_pct": 0.091038,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,foreign_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.092512,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.089952,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.092512,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.089952,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.092512,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.089952,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.092512,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.089952,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive",
+      "trades": 209.0,
+      "months": 5.0,
+      "win_rate": 0.665072,
+      "avg_return_pct": 0.089362,
+      "median_return_pct": "0.051402",
+      "monthly_avg_return_pct": 0.089894,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 334.0,
+      "months": 5.0,
+      "win_rate": 0.682635,
+      "avg_return_pct": 0.10126,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.087324,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 19.0,
+      "months": 4.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.107271,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.086568,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,foreign_buy_gt_100k",
+      "trades": 19.0,
+      "months": 4.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.107271,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.086568,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 19.0,
+      "months": 4.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.107271,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.086568,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 19.0,
+      "months": 4.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.107271,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.086568,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.085189,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.086255,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.673913,
+      "avg_return_pct": 0.10726,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086122,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.673913,
+      "avg_return_pct": 0.10726,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086122,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.104108,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.086058,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 54.0,
+      "months": 5.0,
+      "win_rate": 0.685185,
+      "avg_return_pct": 0.095025,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.085655,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 54.0,
+      "months": 5.0,
+      "win_rate": 0.685185,
+      "avg_return_pct": 0.095025,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.085655,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.083902,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.085271,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.083902,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.085271,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.083902,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.085271,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.659091,
+      "avg_return_pct": 0.083902,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.085271,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,inst_buy_gt_100k",
+      "trades": 61.0,
+      "months": 5.0,
+      "win_rate": 0.655738,
+      "avg_return_pct": 0.094147,
+      "median_return_pct": "0.052863",
+      "monthly_avg_return_pct": 0.085253,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,inst_buy_gt_100k",
+      "trades": 61.0,
+      "months": 5.0,
+      "win_rate": 0.655738,
+      "avg_return_pct": 0.094147,
+      "median_return_pct": "0.052863",
+      "monthly_avg_return_pct": 0.085253,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,foreign_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.680851,
+      "avg_return_pct": 0.106126,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.085069,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,foreign_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.680851,
+      "avg_return_pct": 0.106126,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.085069,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 28.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.102318,
+      "median_return_pct": "0.061307",
+      "monthly_avg_return_pct": 0.084588,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m",
+      "trades": 672.0,
+      "months": 5.0,
+      "win_rate": 0.729167,
+      "avg_return_pct": 0.093877,
+      "median_return_pct": "0.054795",
+      "monthly_avg_return_pct": 0.084405,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k",
+      "trades": 672.0,
+      "months": 5.0,
+      "win_rate": 0.729167,
+      "avg_return_pct": 0.093877,
+      "median_return_pct": "0.054795",
+      "monthly_avg_return_pct": 0.084405,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_100k",
+      "trades": 672.0,
+      "months": 5.0,
+      "win_rate": 0.729167,
+      "avg_return_pct": 0.093877,
+      "median_return_pct": "0.054795",
+      "monthly_avg_return_pct": 0.084405,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 672.0,
+      "months": 5.0,
+      "win_rate": 0.729167,
+      "avg_return_pct": 0.093877,
+      "median_return_pct": "0.054795",
+      "monthly_avg_return_pct": 0.084405,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.075986,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.083996,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 129.0,
+      "months": 5.0,
+      "win_rate": 0.651163,
+      "avg_return_pct": 0.094191,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.083932,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 45.0,
+      "months": 5.0,
+      "win_rate": 0.644444,
+      "avg_return_pct": 0.083146,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.083876,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 345.0,
+      "months": 5.0,
+      "win_rate": 0.686957,
+      "avg_return_pct": 0.083323,
+      "median_return_pct": "0.040761",
+      "monthly_avg_return_pct": 0.083696,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 345.0,
+      "months": 5.0,
+      "win_rate": 0.686957,
+      "avg_return_pct": 0.083323,
+      "median_return_pct": "0.040761",
+      "monthly_avg_return_pct": 0.083696,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.067894,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.083684,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 357.0,
+      "months": 5.0,
+      "win_rate": 0.705882,
+      "avg_return_pct": 0.087327,
+      "median_return_pct": "0.043182",
+      "monthly_avg_return_pct": 0.083002,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 357.0,
+      "months": 5.0,
+      "win_rate": 0.705882,
+      "avg_return_pct": 0.087327,
+      "median_return_pct": "0.043182",
+      "monthly_avg_return_pct": 0.083002,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.081959,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.082921,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.081959,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.082921,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.081959,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.082921,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 46.0,
+      "months": 5.0,
+      "win_rate": 0.652174,
+      "avg_return_pct": 0.081959,
+      "median_return_pct": "0.055425",
+      "monthly_avg_return_pct": 0.082921,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d,foreign_buy_gt_100k",
+      "trades": 57.0,
+      "months": 5.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.091736,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.082626,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 57.0,
+      "months": 5.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.091736,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.082626,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 319.0,
+      "months": 5.0,
+      "win_rate": 0.69906,
+      "avg_return_pct": 0.085559,
+      "median_return_pct": "0.042929",
+      "monthly_avg_return_pct": 0.082426,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 319.0,
+      "months": 5.0,
+      "win_rate": 0.69906,
+      "avg_return_pct": 0.085559,
+      "median_return_pct": "0.042929",
+      "monthly_avg_return_pct": 0.082426,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 42.0,
+      "months": 5.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.097967,
+      "median_return_pct": "0.083197",
+      "monthly_avg_return_pct": 0.081866,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 42.0,
+      "months": 5.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.097967,
+      "median_return_pct": "0.083197",
+      "monthly_avg_return_pct": 0.081866,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 42.0,
+      "months": 5.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.097967,
+      "median_return_pct": "0.083197",
+      "monthly_avg_return_pct": 0.081866,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 42.0,
+      "months": 5.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.097967,
+      "median_return_pct": "0.083197",
+      "monthly_avg_return_pct": 0.081866,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 97.0,
+      "months": 5.0,
+      "win_rate": 0.639175,
+      "avg_return_pct": 0.093445,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.08169,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.655172,
+      "avg_return_pct": 0.097222,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.080535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.655172,
+      "avg_return_pct": 0.097222,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.080535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.655172,
+      "avg_return_pct": 0.097222,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.080535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.655172,
+      "avg_return_pct": 0.097222,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.080535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.655172,
+      "avg_return_pct": 0.097222,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.080535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 29.0,
+      "months": 5.0,
+      "win_rate": 0.655172,
+      "avg_return_pct": 0.097222,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.080535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 373.0,
+      "months": 5.0,
+      "win_rate": 0.699732,
+      "avg_return_pct": 0.084612,
+      "median_return_pct": "0.041237",
+      "monthly_avg_return_pct": 0.080476,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 364.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.079955,
+      "median_return_pct": "0.037578",
+      "monthly_avg_return_pct": 0.080211,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,foreign_buy_gt_100k",
+      "trades": 291.0,
+      "months": 5.0,
+      "win_rate": 0.704467,
+      "avg_return_pct": 0.089932,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.079868,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 291.0,
+      "months": 5.0,
+      "win_rate": 0.704467,
+      "avg_return_pct": 0.089932,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.079868,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 291.0,
+      "months": 5.0,
+      "win_rate": 0.704467,
+      "avg_return_pct": 0.089932,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.079868,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 291.0,
+      "months": 5.0,
+      "win_rate": 0.704467,
+      "avg_return_pct": 0.089932,
+      "median_return_pct": "0.045792",
+      "monthly_avg_return_pct": 0.079868,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 335.0,
+      "months": 5.0,
+      "win_rate": 0.692537,
+      "avg_return_pct": 0.082621,
+      "median_return_pct": "0.038905",
+      "monthly_avg_return_pct": 0.079749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,inst_buy_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 41.0,
+      "months": 5.0,
+      "win_rate": 0.634146,
+      "avg_return_pct": 0.084769,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.07971,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.679245,
+      "avg_return_pct": 0.085913,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.0797,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.679245,
+      "avg_return_pct": 0.085913,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.0797,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.095781,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079664,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.095781,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079664,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.095781,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079664,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.095781,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079664,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.095781,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079664,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 30.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.095781,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079664,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 101.0,
+      "months": 5.0,
+      "win_rate": 0.633663,
+      "avg_return_pct": 0.09035,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.079498,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 101.0,
+      "months": 5.0,
+      "win_rate": 0.633663,
+      "avg_return_pct": 0.09035,
+      "median_return_pct": "0.027027",
+      "monthly_avg_return_pct": 0.079498,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,inst_buy_gt_100k",
+      "trades": 276.0,
+      "months": 5.0,
+      "win_rate": 0.681159,
+      "avg_return_pct": 0.084804,
+      "median_return_pct": "0.042945",
+      "monthly_avg_return_pct": 0.079321,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 276.0,
+      "months": 5.0,
+      "win_rate": 0.681159,
+      "avg_return_pct": 0.084804,
+      "median_return_pct": "0.042945",
+      "monthly_avg_return_pct": 0.079321,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 276.0,
+      "months": 5.0,
+      "win_rate": 0.681159,
+      "avg_return_pct": 0.084804,
+      "median_return_pct": "0.042945",
+      "monthly_avg_return_pct": 0.079321,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 276.0,
+      "months": 5.0,
+      "win_rate": 0.681159,
+      "avg_return_pct": 0.084804,
+      "median_return_pct": "0.042945",
+      "monthly_avg_return_pct": 0.079321,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.102555,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.079011,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 47.0,
+      "months": 5.0,
+      "win_rate": 0.659574,
+      "avg_return_pct": 0.08107,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07888,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.095639,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.078818,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.093023,
+      "median_return_pct": "0.064599",
+      "monthly_avg_return_pct": 0.07867,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.093023,
+      "median_return_pct": "0.064599",
+      "monthly_avg_return_pct": 0.07867,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.093023,
+      "median_return_pct": "0.064599",
+      "monthly_avg_return_pct": 0.07867,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 44.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.093023,
+      "median_return_pct": "0.064599",
+      "monthly_avg_return_pct": 0.07867,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 15.0,
+      "months": 4.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.065273,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.078299,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 48.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.079976,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.078076,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 48.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.079976,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.078076,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 48.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.079976,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.078076,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 48.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.079976,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.078076,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 256.0,
+      "months": 5.0,
+      "win_rate": 0.691406,
+      "avg_return_pct": 0.086959,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.077084,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 256.0,
+      "months": 5.0,
+      "win_rate": 0.691406,
+      "avg_return_pct": 0.086959,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.077084,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 256.0,
+      "months": 5.0,
+      "win_rate": 0.691406,
+      "avg_return_pct": 0.086959,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.077084,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 256.0,
+      "months": 5.0,
+      "win_rate": 0.691406,
+      "avg_return_pct": 0.086959,
+      "median_return_pct": "0.043165",
+      "monthly_avg_return_pct": 0.077084,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 56.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.083054,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.077038,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 56.0,
+      "months": 5.0,
+      "win_rate": 0.678571,
+      "avg_return_pct": 0.083054,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.077038,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.627907,
+      "avg_return_pct": 0.081025,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.076994,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.627907,
+      "avg_return_pct": 0.081025,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.076994,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.627907,
+      "avg_return_pct": 0.081025,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.076994,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.627907,
+      "avg_return_pct": 0.081025,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.076994,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.627907,
+      "avg_return_pct": 0.081025,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.076994,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 43.0,
+      "months": 5.0,
+      "win_rate": 0.627907,
+      "avg_return_pct": 0.081025,
+      "median_return_pct": "0.0434",
+      "monthly_avg_return_pct": 0.076994,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 50.0,
+      "months": 5.0,
+      "win_rate": 0.64,
+      "avg_return_pct": 0.077683,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.076749,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,inst_buy_gt_100k",
+      "trades": 51.0,
+      "months": 5.0,
+      "win_rate": 0.647059,
+      "avg_return_pct": 0.07672,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.075961,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 51.0,
+      "months": 5.0,
+      "win_rate": 0.647059,
+      "avg_return_pct": 0.07672,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.075961,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 51.0,
+      "months": 5.0,
+      "win_rate": 0.647059,
+      "avg_return_pct": 0.07672,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.075961,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 51.0,
+      "months": 5.0,
+      "win_rate": 0.647059,
+      "avg_return_pct": 0.07672,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.075961,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_gt_50k,trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 7.0,
+      "months": 4.0,
+      "win_rate": 0.571429,
+      "avg_return_pct": 0.091002,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.075179,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d,inst_buy_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.615385,
+      "avg_return_pct": 0.090382,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07458,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.615385,
+      "avg_return_pct": 0.090382,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07458,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.615385,
+      "avg_return_pct": 0.090382,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07458,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 13.0,
+      "months": 4.0,
+      "win_rate": 0.615385,
+      "avg_return_pct": 0.090382,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.07458,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.083605,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.074387,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_20d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_20d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_20d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_60d,breakout_20d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,breakout_60d,breakout_20d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 106.0,
+      "months": 5.0,
+      "win_rate": 0.622642,
+      "avg_return_pct": 0.087476,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.074166,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 102.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.086497,
+      "median_return_pct": "0.052901",
+      "monthly_avg_return_pct": 0.07381,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 102.0,
+      "months": 5.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.086497,
+      "median_return_pct": "0.052901",
+      "monthly_avg_return_pct": 0.07381,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k",
+      "trades": 1056.0,
+      "months": 5.0,
+      "win_rate": 0.698864,
+      "avg_return_pct": 0.079165,
+      "median_return_pct": "0.043182",
+      "monthly_avg_return_pct": 0.072959,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 1056.0,
+      "months": 5.0,
+      "win_rate": 0.698864,
+      "avg_return_pct": 0.079165,
+      "median_return_pct": "0.043182",
+      "monthly_avg_return_pct": 0.072959,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d",
+      "trades": 110.0,
+      "months": 5.0,
+      "win_rate": 0.618182,
+      "avg_return_pct": 0.084851,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.072208,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_60d,breakout_20d",
+      "trades": 110.0,
+      "months": 5.0,
+      "win_rate": 0.618182,
+      "avg_return_pct": 0.084851,
+      "median_return_pct": "0.017857",
+      "monthly_avg_return_pct": 0.072208,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 18.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.081123,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.071024,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 18.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.081123,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.071024,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 18.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.081123,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.071024,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 18.0,
+      "months": 4.0,
+      "win_rate": 0.666667,
+      "avg_return_pct": 0.081123,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.071024,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "prev_vol_ratio_gt_1_5",
+      "trades": 443.0,
+      "months": 5.0,
+      "win_rate": 0.625282,
+      "avg_return_pct": 0.079042,
+      "median_return_pct": "0.019166",
+      "monthly_avg_return_pct": 0.070995,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 59.0,
+      "months": 5.0,
+      "win_rate": 0.661017,
+      "avg_return_pct": 0.079159,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.070624,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 59.0,
+      "months": 5.0,
+      "win_rate": 0.661017,
+      "avg_return_pct": 0.079159,
+      "median_return_pct": "0.033898",
+      "monthly_avg_return_pct": 0.070624,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 79.0,
+      "months": 5.0,
+      "win_rate": 0.658228,
+      "avg_return_pct": 0.081318,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.070236,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 21.0,
+      "months": 5.0,
+      "win_rate": 0.619048,
+      "avg_return_pct": 0.080153,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.070085,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 82.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.079239,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.069068,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 82.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.079239,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.069068,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 82.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.079239,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.069068,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 82.0,
+      "months": 5.0,
+      "win_rate": 0.658537,
+      "avg_return_pct": 0.079239,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.069068,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 15.0,
+      "months": 5.0,
+      "win_rate": 0.6,
+      "avg_return_pct": 0.064009,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.06887,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d,inst_buy_gt_100k",
+      "trades": 63.0,
+      "months": 5.0,
+      "win_rate": 0.650794,
+      "avg_return_pct": 0.07561,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.068614,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 63.0,
+      "months": 5.0,
+      "win_rate": 0.650794,
+      "avg_return_pct": 0.07561,
+      "median_return_pct": "0.033816",
+      "monthly_avg_return_pct": 0.068614,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "breakout_20d",
+      "trades": 153.0,
+      "months": 5.0,
+      "win_rate": 0.627451,
+      "avg_return_pct": 0.079289,
+      "median_return_pct": "0.019544",
+      "monthly_avg_return_pct": 0.067603,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.088933,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.066293,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.088933,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.066293,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.088933,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.066293,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 27.0,
+      "months": 5.0,
+      "win_rate": 0.703704,
+      "avg_return_pct": 0.088933,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.066293,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 16.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.061794,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.064562,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "inst_buy_gt_100k",
+      "trades": 587.0,
+      "months": 5.0,
+      "win_rate": 0.638842,
+      "avg_return_pct": 0.069904,
+      "median_return_pct": "0.027926",
+      "monthly_avg_return_pct": 0.063632,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_100k",
+      "trades": 1399.0,
+      "months": 5.0,
+      "win_rate": 0.676912,
+      "avg_return_pct": 0.070709,
+      "median_return_pct": "0.033493",
+      "monthly_avg_return_pct": 0.063594,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,avg_volume_5d_gt_100k",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,prev_vol_ratio_gt_1_5,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 22.0,
+      "months": 5.0,
+      "win_rate": 0.636364,
+      "avg_return_pct": 0.077808,
+      "median_return_pct": "0.017241",
+      "monthly_avg_return_pct": 0.063551,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "foreign_buy_gt_100k",
+      "trades": 599.0,
+      "months": 5.0,
+      "win_rate": 0.647746,
+      "avg_return_pct": 0.07159,
+      "median_return_pct": "0.029126",
+      "monthly_avg_return_pct": 0.062873,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d",
+      "trades": 62.0,
+      "months": 5.0,
+      "win_rate": 0.693548,
+      "avg_return_pct": 0.079019,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.06159,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 62.0,
+      "months": 5.0,
+      "win_rate": 0.693548,
+      "avg_return_pct": 0.079019,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.06159,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 62.0,
+      "months": 5.0,
+      "win_rate": 0.693548,
+      "avg_return_pct": 0.079019,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.06159,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 62.0,
+      "months": 5.0,
+      "win_rate": 0.693548,
+      "avg_return_pct": 0.079019,
+      "median_return_pct": "0.054908",
+      "monthly_avg_return_pct": 0.06159,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 52.0,
+      "months": 5.0,
+      "win_rate": 0.653846,
+      "avg_return_pct": 0.074169,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.061262,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 549.0,
+      "months": 5.0,
+      "win_rate": 0.642987,
+      "avg_return_pct": 0.069291,
+      "median_return_pct": "0.027926",
+      "monthly_avg_return_pct": 0.060122,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 53.0,
+      "months": 5.0,
+      "win_rate": 0.660377,
+      "avg_return_pct": 0.073308,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.05988,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 19.0,
+      "months": 5.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.077359,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.058742,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k",
+      "trades": 19.0,
+      "months": 5.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.077359,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.058742,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 19.0,
+      "months": 5.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.077359,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.058742,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,prev_vol_ratio_gt_1_5,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 19.0,
+      "months": 5.0,
+      "win_rate": 0.684211,
+      "avg_return_pct": 0.077359,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.058742,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.063455,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.055535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.063455,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.055535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.063455,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.055535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 14.0,
+      "months": 4.0,
+      "win_rate": 0.642857,
+      "avg_return_pct": 0.063455,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.055535,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.064967,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.047862,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.046826,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047616,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.060787,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.047479,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.060787,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.047479,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.060787,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.047479,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 12.0,
+      "months": 4.0,
+      "win_rate": 0.583333,
+      "avg_return_pct": 0.060787,
+      "median_return_pct": "0.037249",
+      "monthly_avg_return_pct": 0.047479,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 11.0,
+      "months": 4.0,
+      "win_rate": 0.545455,
+      "avg_return_pct": 0.050703,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.047286,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.063865,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.045622,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d,foreign_buy_gt_100k",
+      "trades": 38.0,
+      "months": 5.0,
+      "win_rate": 0.631579,
+      "avg_return_pct": 0.073382,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.044136,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 38.0,
+      "months": 5.0,
+      "win_rate": 0.631579,
+      "avg_return_pct": 0.073382,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.044136,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 38.0,
+      "months": 5.0,
+      "win_rate": 0.631579,
+      "avg_return_pct": 0.073382,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.044136,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 38.0,
+      "months": 5.0,
+      "win_rate": 0.631579,
+      "avg_return_pct": 0.073382,
+      "median_return_pct": "0.028571",
+      "monthly_avg_return_pct": 0.044136,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 10.0,
+      "months": 4.0,
+      "win_rate": 0.5,
+      "avg_return_pct": 0.068258,
+      "median_return_pct": "0.06117",
+      "monthly_avg_return_pct": 0.042972,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "trust_buy_positive,avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 9.0,
+      "months": 4.0,
+      "win_rate": 0.444444,
+      "avg_return_pct": 0.056763,
+      "median_return_pct": "-0.004975",
+      "monthly_avg_return_pct": 0.042779,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 33.0,
+      "months": 5.0,
+      "win_rate": 0.575758,
+      "avg_return_pct": 0.046905,
+      "median_return_pct": "0.009615",
+      "monthly_avg_return_pct": 0.036578,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 34.0,
+      "months": 5.0,
+      "win_rate": 0.588235,
+      "avg_return_pct": 0.046366,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.03584,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,breakout_240d,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_120d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_240d,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 31.0,
+      "months": 5.0,
+      "win_rate": 0.548387,
+      "avg_return_pct": 0.04842,
+      "median_return_pct": "0.007782",
+      "monthly_avg_return_pct": 0.035044,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 37.0,
+      "months": 5.0,
+      "win_rate": 0.621622,
+      "avg_return_pct": 0.059745,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.034284,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 37.0,
+      "months": 5.0,
+      "win_rate": 0.621622,
+      "avg_return_pct": 0.059745,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.034284,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 37.0,
+      "months": 5.0,
+      "win_rate": 0.621622,
+      "avg_return_pct": 0.059745,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.034284,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 37.0,
+      "months": 5.0,
+      "win_rate": 0.621622,
+      "avg_return_pct": 0.059745,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.034284,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_60d,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k,foreign_buy_gt_100k",
+      "trades": 32.0,
+      "months": 5.0,
+      "win_rate": 0.5625,
+      "avg_return_pct": 0.0478,
+      "median_return_pct": "0.011905",
+      "monthly_avg_return_pct": 0.034127,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k",
+      "trades": 40.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.055681,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.033542,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k",
+      "trades": 40.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.055681,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.033542,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 40.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.055681,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.033542,
+      "hit_goal": "False"
+    },
+    {
+      "combo": "avg_volume_5d_gt_1m,avg_volume_5d_gt_300k,breakout_20d,inst_buy_gt_100k,avg_volume_5d_gt_100k",
+      "trades": 40.0,
+      "months": 5.0,
+      "win_rate": 0.625,
+      "avg_return_pct": 0.055681,
+      "median_return_pct": "0.026643",
+      "monthly_avg_return_pct": 0.033542,
+      "hit_goal": "False"
+    }
+  ],
   "june_holdings": [
     {
       "parameter_id": "vol5_0_high60_instany_epsloany_epshiany_sl10_tpnone_month_end",

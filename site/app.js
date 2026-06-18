@@ -15,10 +15,22 @@ function fmtInt(value) {
   return Number(value || 0).toLocaleString("zh-TW", { maximumFractionDigits: 0 });
 }
 
-function buildMetricCards(targetId, cards) {
-  const target = document.getElementById(targetId);
+function setText(id, text) {
+  const node = document.getElementById(id);
+  if (node) node.textContent = text;
+}
+
+function renderMetrics() {
+  const best = data.winner_factor_best || {};
+  const summary = data.summary || {};
+  const target = document.getElementById("metrics");
   if (!target) return;
-  target.innerHTML = cards.map(([label, value, note]) => `
+  target.innerHTML = [
+    ["目前持股", fmtInt((data.june_holdings || []).length), "本月實際持倉"],
+    ["最佳勝率", fmtPct(best.win_rate), "暴力回測最佳組合"],
+    ["最佳平均報酬", fmtPct(best.avg_return_pct), "單組平均報酬率"],
+    ["策略數", fmtInt((data.winner_factor_results || []).length), "前 50 策略清單來源"],
+  ].map(([label, value, note]) => `
     <article class="metric-card">
       <div class="eyebrow">${label}</div>
       <div class="metric-value">${value}</div>
@@ -27,15 +39,15 @@ function buildMetricCards(targetId, cards) {
   `).join("");
 }
 
-function renderCurrentHoldings() {
+function renderHoldings() {
   const target = document.getElementById("currentHoldings");
   if (!target) return;
-  const holdings = data.june_holdings || [];
-  if (!holdings.length) {
+  const rows = (data.june_holdings || []).slice(0, 5);
+  if (!rows.length) {
     target.innerHTML = `<div class="empty-state">目前沒有本月持股。</div>`;
     return;
   }
-  target.innerHTML = holdings.slice(0, 5).map((row, index) => `
+  target.innerHTML = rows.map((row, index) => `
     <article class="holding-card">
       <div class="holding-rank">#${index + 1}</div>
       <div>
@@ -47,12 +59,12 @@ function renderCurrentHoldings() {
   `).join("");
 }
 
-function renderBestStrategyCard() {
+function renderBestStrategy() {
   const target = document.getElementById("bestStrategyCard");
   if (!target) return;
   const best = data.winner_factor_best || {};
   if (!best.combo) {
-    target.innerHTML = `<div class="empty-state">目前沒有最佳策略資料。</div>`;
+    target.innerHTML = `<div class="empty-state">目前沒有最佳策略。</div>`;
     return;
   }
   target.innerHTML = `
@@ -63,35 +75,11 @@ function renderBestStrategyCard() {
       <div><span>月均報酬</span><strong>${fmtPct(best.monthly_avg_return_pct)}</strong></div>
       <div><span>交易數</span><strong>${fmtInt(best.trades)}</strong></div>
     </div>
-    <div class="strategy-note">這是目前保留下來的最佳暴力回測組合。</div>
+    <div class="strategy-note">目前保留的最佳暴力回測結果。</div>
   `;
 }
 
-function initHome() {
-  const summary = data.summary || {};
-  const heroMainValue = document.getElementById("heroMainValue");
-  const heroMainNote = document.getElementById("heroMainNote");
-  if (heroMainValue) heroMainValue.textContent = bestSummaryText();
-  if (heroMainNote) heroMainNote.textContent = "只保留持倉與最佳策略";
-
-  buildMetricCards("metrics", [
-    ["目前持股", fmtInt(summary.active_events), "本月實際進場標的"],
-    ["最佳策略勝率", fmtPct((data.winner_factor_best || {}).win_rate), "暴力回測最佳值"],
-    ["最佳策略報酬", fmtPct((data.winner_factor_best || {}).avg_return_pct), "平均報酬率"],
-    ["策略組數", fmtInt((data.winner_factor_results || []).length || 0), "可回看歷史策略"],
-  ]);
-
-  renderCurrentHoldings();
-  renderBestStrategyCard();
-}
-
-function bestSummaryText() {
-  const best = data.winner_factor_best || {};
-  if (!best.combo) return "--";
-  return `${fmtPct(best.win_rate)} / ${fmtPct(best.avg_return_pct)}`;
-}
-
-function renderStrategyPalette() {
+function renderStrategyIndex() {
   const target = document.getElementById("strategyPalette");
   if (!target) return;
   const cards = [
@@ -103,7 +91,7 @@ function renderStrategyPalette() {
     <article class="metric-card">
       <div class="eyebrow">${title}</div>
       <div class="metric-value" style="font-size:1.1rem">${note}</div>
-      <div class="metric-note">策略條件索引。</div>
+      <div class="metric-note">回測條件索引。</div>
     </article>
   `).join("");
 }
@@ -111,7 +99,7 @@ function renderStrategyPalette() {
 function renderStrategyHistory() {
   const target = document.getElementById("strategyHistoryTable");
   if (!target) return;
-  const rows = data.winner_factor_results || [];
+  const rows = (data.winner_factor_results || []).slice(0, 50);
   if (!rows.length) {
     target.innerHTML = `<div class="empty-state">目前沒有策略歷史紀錄。</div>`;
     return;
@@ -119,25 +107,34 @@ function renderStrategyHistory() {
   target.innerHTML = `
     <div class="trade-row trade-head">
       <div>策略</div>
-      <div>交易數</div>
       <div>勝率</div>
       <div>平均報酬</div>
       <div>月均報酬</div>
+      <div>交易數</div>
     </div>
-    ${rows.slice(0, 30).map((row) => `
+    ${rows.map((row) => `
       <div class="trade-row">
         <div>${row.combo}</div>
-        <div>${fmtInt(row.trades)}</div>
         <div>${fmtPct(row.win_rate)}</div>
         <div>${fmtPct(row.avg_return_pct)}</div>
         <div>${fmtPct(row.monthly_avg_return_pct)}</div>
+        <div>${fmtInt(row.trades)}</div>
       </div>
     `).join("")}
   `;
 }
 
+function initHome() {
+  const best = data.winner_factor_best || {};
+  setText("heroMainValue", best.combo ? `${fmtPct(best.win_rate)} / ${fmtPct(best.avg_return_pct)}` : "--");
+  setText("heroMainNote", "只保留新的戰情室內容");
+  renderMetrics();
+  renderHoldings();
+  renderBestStrategy();
+}
+
 function initPast() {
-  renderStrategyPalette();
+  renderStrategyIndex();
   renderStrategyHistory();
 }
 
