@@ -49,6 +49,57 @@ window.TOPIC06_DATA = {
     "turnaround_profit_to_loss": 0,
     "comparison_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\output\\event_comparisons.csv"
   },
+  "local_backtest_summary": {
+    "portfolio_rows": 11,
+    "trades": 0,
+    "marked_positions": 2,
+    "skipped": 15,
+    "holding_windows": [
+      5,
+      10,
+      20
+    ],
+    "months": {},
+    "marked_summary": {
+      "avg_return_pct": 0.024304,
+      "win_rate": 1.0,
+      "total_pnl_amount": 9721.6,
+      "latest_date": "2026-06-17"
+    },
+    "trade_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\backtest_trades.csv",
+    "marked_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\backtest_marked_positions.csv",
+    "skipped_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\backtest_skipped.csv"
+  },
+  "local_marked_positions": [
+    {
+      "month": "2026-06",
+      "stock_id": "8021",
+      "company_name": "尖點",
+      "event_id": "mopsjson_8021_1150616_152535",
+      "strategy_bucket": "topic_06_eps_catalyst",
+      "allocation_amount": "200000.0",
+      "entry_date": "2026-06-17",
+      "entry_price": "524.0",
+      "latest_date": "2026-06-17",
+      "latest_price": "542.0",
+      "marked_return_pct": "0.034351",
+      "marked_pnl_amount": "6870.2"
+    },
+    {
+      "month": "2026-06",
+      "stock_id": "2493",
+      "company_name": "揚博",
+      "event_id": "mopsjson_2493_1150616_150854",
+      "strategy_bucket": "topic_06_eps_catalyst",
+      "allocation_amount": "200000.0",
+      "entry_date": "2026-06-17",
+      "entry_price": "245.5",
+      "latest_date": "2026-06-17",
+      "latest_price": "249.0",
+      "marked_return_pct": "0.014257",
+      "marked_pnl_amount": "2851.4"
+    }
+  ],
   "missing_stock_ids": [
     "1201",
     "1303",

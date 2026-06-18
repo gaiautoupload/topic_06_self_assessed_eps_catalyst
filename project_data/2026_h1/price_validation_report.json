@@ -1,0 +1,315 @@
+{
+  "needed_files": 20,
+  "present_files": 2,
+  "missing_files": [
+    "1301",
+    "1303",
+    "1309",
+    "1312",
+    "1326",
+    "1409",
+    "1440",
+    "1441",
+    "1444",
+    "1449",
+    "1454",
+    "1471",
+    "1477",
+    "2105",
+    "2455",
+    "3026",
+    "3090",
+    "6834"
+  ],
+  "valid_files": 2,
+  "reports": [
+    {
+      "file": "1301.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1303.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1309.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1312.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1326.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1409.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1440.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1441.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1444.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1449.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1454.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1471.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "1477.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "2105.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "2455.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "2493.csv",
+      "rows": 13,
+      "missing_columns": [],
+      "stock_ids": [
+        "2493"
+      ],
+      "valid": true
+    },
+    {
+      "file": "3026.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "3090.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "6834.csv",
+      "rows": 0,
+      "missing_columns": [
+        "open",
+        "stock_id",
+        "trade_date",
+        "close",
+        "low",
+        "volume",
+        "high"
+      ],
+      "stock_ids": [],
+      "valid": false
+    },
+    {
+      "file": "8021.csv",
+      "rows": 13,
+      "missing_columns": [],
+      "stock_ids": [
+        "8021"
+      ],
+      "valid": true
+    }
+  ]
+}

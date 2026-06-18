@@ -41,6 +41,15 @@ def build_payload() -> dict:
     trades = load_csv("trades.csv")
     valuation_summary = load_json("valuation_summary.json")
     trades_summary = load_json("trades_summary.json")
+    local_backtest_summary = {}
+    local_marked_positions = []
+    local_dir = PROJECT_DIR / "project_data" / "2026_h1"
+    if (local_dir / "backtest_summary.json").exists():
+        with (local_dir / "backtest_summary.json").open("r", encoding="utf-8") as fh:
+            local_backtest_summary = json.load(fh)
+    if (local_dir / "backtest_marked_positions.csv").exists():
+        with (local_dir / "backtest_marked_positions.csv").open("r", encoding="utf-8-sig", newline="") as fh:
+            local_marked_positions = list(csv.DictReader(fh))
 
     trades_by_event: dict[str, list[dict[str, str]]] = {}
     for row in trades:
@@ -147,6 +156,8 @@ def build_payload() -> dict:
         "valuation_summary": valuation_summary,
         "trades_summary": trades_summary,
         "comparison_summary": load_json("event_comparisons_summary.json"),
+        "local_backtest_summary": local_backtest_summary,
+        "local_marked_positions": local_marked_positions,
         "missing_stock_ids": sorted({row["stock_id"] for row in missing_prices}),
         "ongoing_events": ongoing_events,
         "upcoming_events": upcoming_events,

@@ -1,0 +1,35 @@
+{
+  "local_prices_dir": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\prices",
+  "required_columns": [
+    "trade_date",
+    "stock_id",
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume"
+  ],
+  "needed_stock_ids": [
+    "1301",
+    "1303",
+    "1309",
+    "1312",
+    "1326",
+    "1409",
+    "1440",
+    "1441",
+    "1444",
+    "1449",
+    "1454",
+    "1471",
+    "1477",
+    "2105",
+    "2455",
+    "2493",
+    "3026",
+    "3090",
+    "6834",
+    "8021"
+  ],
+  "template_file": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\prices\\_template_price.csv"
+}

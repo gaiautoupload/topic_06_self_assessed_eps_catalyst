@@ -1,0 +1,3 @@
+﻿month,stock_id,company_name,event_id,strategy_bucket,allocation_amount,entry_date,entry_price,latest_date,latest_price,marked_return_pct,marked_pnl_amount
+2026-06,8021,尖點,mopsjson_8021_1150616_152535,topic_06_eps_catalyst,200000.0,2026-06-17,524.0,2026-06-17,542.0,0.034351,6870.2
+2026-06,2493,揚博,mopsjson_2493_1150616_150854,topic_06_eps_catalyst,200000.0,2026-06-17,245.5,2026-06-17,249.0,0.014257,2851.4

@@ -1,0 +1,12 @@
+﻿month,stock_id,company_name,event_id,announcement_date,strategy_bucket,allocation_amount,selected_rank,selected_count,fill_rule
+2026-01,1477,聚陽,mops_1477_20260116_162156_1,2026-01-16,topic_06_eps_catalyst,500000.0,1,2,rebalance_to_full_1m_after_10_12
+2026-01,1471,首利,mops_1471_20260127_161918_2,2026-01-27,topic_06_eps_catalyst,500000.0,2,2,rebalance_to_full_1m_after_10_12
+2026-03,1309,台達化,mops_1309_20260324_160859_1,2026-03-24,topic_06_eps_catalyst,1000000.0,1,1,rebalance_to_full_1m_after_10_12
+2026-04,1326,台化,mops_1326_20260410_133045_2,2026-04-10,topic_06_eps_catalyst,333333.33,1,3,rebalance_to_full_1m_after_10_12
+2026-04,1303,南亞,mops_1303_20260410_133021_2,2026-04-10,topic_06_eps_catalyst,333333.33,2,3,rebalance_to_full_1m_after_10_12
+2026-04,1301,台塑,mops_1301_20260410_133405_2,2026-04-10,topic_06_eps_catalyst,333333.33,3,3,rebalance_to_full_1m_after_10_12
+2026-06,3026,禾伸堂,mopsjson_3026_1150616_152832,2026-06-16,topic_06_eps_catalyst,200000.0,1,5,top5_equal_200k
+2026-06,8021,尖點,mopsjson_8021_1150616_152535,2026-06-16,topic_06_eps_catalyst,200000.0,2,5,top5_equal_200k
+2026-06,2493,揚博,mopsjson_2493_1150616_150854,2026-06-16,topic_06_eps_catalyst,200000.0,3,5,top5_equal_200k
+2026-06,3090,日電貿,mopsjson_3090_1150616_184706,2026-06-16,topic_06_eps_catalyst,200000.0,4,5,top5_equal_200k
+2026-06,2455,全新,mopsjson_2455_1150616_162105,2026-06-16,topic_06_eps_catalyst,200000.0,5,5,top5_equal_200k

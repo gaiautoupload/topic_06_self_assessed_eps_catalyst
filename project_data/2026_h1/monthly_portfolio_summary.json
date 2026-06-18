@@ -1,0 +1,36 @@
+{
+  "monthly_capital": 1000000,
+  "target_positions": 5,
+  "rebalance_day_hint": "10-12",
+  "months": {
+    "2026-01": {
+      "candidate_events": 2,
+      "selected_events": 2,
+      "allocation_per_event": 500000.0,
+      "allocated_capital": 1000000.0,
+      "fill_rule": "rebalance_to_full_1m_after_10_12"
+    },
+    "2026-03": {
+      "candidate_events": 1,
+      "selected_events": 1,
+      "allocation_per_event": 1000000.0,
+      "allocated_capital": 1000000.0,
+      "fill_rule": "rebalance_to_full_1m_after_10_12"
+    },
+    "2026-04": {
+      "candidate_events": 3,
+      "selected_events": 3,
+      "allocation_per_event": 333333.33,
+      "allocated_capital": 1000000.0,
+      "fill_rule": "rebalance_to_full_1m_after_10_12"
+    },
+    "2026-06": {
+      "candidate_events": 11,
+      "selected_events": 5,
+      "allocation_per_event": 200000.0,
+      "allocated_capital": 1000000.0,
+      "fill_rule": "top5_equal_200k"
+    }
+  },
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\monthly_portfolio.csv"
+}

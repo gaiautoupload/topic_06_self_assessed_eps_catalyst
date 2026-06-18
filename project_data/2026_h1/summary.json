@@ -1,0 +1,11 @@
+{
+  "raw_candidates": 39,
+  "selected_events": 39,
+  "main_strategy_events": 20,
+  "manual_review_events": 19,
+  "missing_metric_value": 14,
+  "missing_compare_context": 15,
+  "missing_price_file": 34,
+  "main_event_gaps": 22,
+  "local_dir": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1"
+}

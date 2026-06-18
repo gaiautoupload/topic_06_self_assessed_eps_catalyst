@@ -1,0 +1,21 @@
+{
+  "portfolio_rows": 11,
+  "trades": 0,
+  "marked_positions": 2,
+  "skipped": 15,
+  "holding_windows": [
+    5,
+    10,
+    20
+  ],
+  "months": {},
+  "marked_summary": {
+    "avg_return_pct": 0.024304,
+    "win_rate": 1.0,
+    "total_pnl_amount": 9721.6,
+    "latest_date": "2026-06-17"
+  },
+  "trade_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\backtest_trades.csv",
+  "marked_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\backtest_marked_positions.csv",
+  "skipped_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\2026_h1\\backtest_skipped.csv"
+}

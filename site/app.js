@@ -198,11 +198,13 @@ function initPast() {
 
 function initBacktest() {
   const summary = data.summary;
+  const localBacktest = data.local_backtest_summary || {};
+  const markedSummary = localBacktest.marked_summary || {};
   buildMetricCards("backtestMetrics", [
-    ["交易筆數", summary.trades, "目前固定持有期產生的交易數"],
-    ["平均報酬", fmtPct(summary.average_trade_return), "現階段可回測樣本的平均報酬"],
-    ["勝率", fmtPct(summary.positive_trade_ratio), "正報酬交易比例"],
-    ["可算 PE", summary.events_with_implied_pe, "目前有 EPS 與價格可計算 PE 的事件數"],
+    ["已算報酬", localBacktest.marked_positions ?? 0, "目前有本地價格可做即時績效估算的部位數"],
+    ["平均報酬", fmtPct(markedSummary.avg_return_pct), "以最新可得價格估算的平均報酬"],
+    ["勝率", fmtPct(markedSummary.win_rate), "目前已算部位中的正報酬比例"],
+    ["總損益", fmtNum(markedSummary.total_pnl_amount), "依目前本地價格可估算的總損益金額"],
   ]);
   renderTradeTable();
   buildCoverageBars();

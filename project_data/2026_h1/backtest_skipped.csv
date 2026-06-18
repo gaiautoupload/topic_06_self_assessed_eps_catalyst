@@ -1,0 +1,16 @@
+﻿month,stock_id,event_id,reason
+2026-01,1477,mops_1477_20260116_162156_1,missing_local_price_file
+2026-01,1471,mops_1471_20260127_161918_2,missing_local_price_file
+2026-03,1309,mops_1309_20260324_160859_1,missing_local_price_file
+2026-04,1326,mops_1326_20260410_133045_2,missing_local_price_file
+2026-04,1303,mops_1303_20260410_133021_2,missing_local_price_file
+2026-04,1301,mops_1301_20260410_133405_2,missing_local_price_file
+2026-06,3026,mopsjson_3026_1150616_152832,missing_local_price_file
+2026-06,8021,mopsjson_8021_1150616_152535,cannot_build_t5
+2026-06,8021,mopsjson_8021_1150616_152535,cannot_build_t10
+2026-06,8021,mopsjson_8021_1150616_152535,cannot_build_t20
+2026-06,2493,mopsjson_2493_1150616_150854,cannot_build_t5
+2026-06,2493,mopsjson_2493_1150616_150854,cannot_build_t10
+2026-06,2493,mopsjson_2493_1150616_150854,cannot_build_t20
+2026-06,3090,mopsjson_3090_1150616_184706,missing_local_price_file
+2026-06,2455,mopsjson_2455_1150616_162105,missing_local_price_file

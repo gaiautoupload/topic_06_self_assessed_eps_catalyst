@@ -8,16 +8,16 @@
 
 ## Topic 06 的主策略邏輯
 
-Topic 06 目前只保留「自結 EPS / 自結獲利催化」這條主策略。
+Topic 06 目前保留「自結 EPS / 自結獲利催化」這條主策略。
 
 核心判斷：
-- 公司是否公告了自結 EPS 或自結獲利
+- 公司是否公告自結 EPS 或自結獲利
 - 公告內容是否足夠讓我們判斷相對改善或惡化
 - 公告後股價是否出現可重複的報酬反應
 
 ## 自動比較規則
 
-實務上很多公告只給本期數字，不一定直接寫和前期比較。因此平台需要自動補比較基準。
+很多公告只給本期數字，不一定直接寫和前期比較。因此平台需要自動補比較基準。
 
 若公告沒有明寫比較結果，後續資料處理要自動計算：
 - 與上月相比增加 / 減少多少
@@ -38,14 +38,41 @@ Topic 06 目前只保留「自結 EPS / 自結獲利催化」這條主策略。
 
 `由虧轉盈` 不放在 Topic 06 裡混做同一條策略，而是獨立成另一個大策略。
 
-原因：
-- 由虧轉盈本身就是非常強的 regime shift 訊號
-- 市場反應常常不同於單純 EPS 成長
-- 進出場規則、樣本分布、勝率特性都可能不同
-
-也就是說，未來事件標記上至少要能分成：
+未來事件標記至少要分成：
 - `topic_06_eps_catalyst`
 - `turnaround_loss_to_profit`
+
+## 月度資金配置規則
+
+回測先採月度投組規則，而不是單筆事件各自獨立看：
+
+- 每月資金：`100 萬`
+- 預設買入檔數：`5 檔`
+- 預設單檔資金：`20 萬`
+
+若當月一開始沒有滿 5 檔，不保留現金，而是在當月公告大致揭露完成後補齊：
+
+- 觀察月份內大約到 `10 號到 12 號`
+- 若最終當月只有 `N` 檔可買，就把 `100 萬` 平均分給這 `N` 檔
+
+例子：
+- 3 檔：每檔 `33.33 萬`
+- 4 檔：每檔 `25 萬`
+- 5 檔以上：取排序前 5 檔，各 `20 萬`
+
+## 本專案自己的 2026 H1 資料區
+
+2026 上半年的補挖資料全部放在專案內，不寫回共用 `D:\dataset`：
+
+- `project_data/2026_h1/raw_candidates.jsonl`
+- `project_data/2026_h1/selected_events.csv`
+- `project_data/2026_h1/main_strategy_events.csv`
+- `project_data/2026_h1/manual_review_events.csv`
+- `project_data/2026_h1/main_event_gaps.csv`
+- `project_data/2026_h1/prices_needed.txt`
+- `project_data/2026_h1/prices/`
+- `project_data/2026_h1/price_specs.json`
+- `project_data/2026_h1/price_validation_report.json`
 
 ## 後續資料欄位要求
 
@@ -64,8 +91,9 @@ Topic 06 目前只保留「自結 EPS / 自結獲利催化」這條主策略。
 - `turned_loss_from_profit`
 - `strategy_bucket`
 
-## 資料來源
+## 共用來源
 
+目前只讀取下列共用來源：
 - `D:\dataset\processed\material_events.jsonl`
 - `D:\dataset\raw\mops_history\...`
 - `D:\dataset\mops\20260617\t187ap04_L.json`
@@ -77,8 +105,27 @@ Topic 06 目前只保留「自結 EPS / 自結獲利催化」這條主策略。
 - `output/events.csv`
 - `output/valuation_snapshot.csv`
 - `output/trades.csv`
+- `output/event_comparisons.csv`
 - `site/`
 - `docs/`
+
+## 本地價格檔格式
+
+放進 `project_data/2026_h1/prices/` 的價格檔需使用：
+
+- 檔名：`{stock_id}.csv`
+- 必要欄位：
+  - `trade_date`
+  - `stock_id`
+  - `open`
+  - `high`
+  - `low`
+  - `close`
+  - `volume`
+
+可先用：
+- `python prepare_local_price_specs.py`
+- `python validate_local_prices.py`
 
 ## 靜態網站
 
@@ -87,11 +134,3 @@ Topic 06 目前只保留「自結 EPS / 自結獲利催化」這條主策略。
 - 更新網站資料時執行：
   - `python generate_site_data.py`
   - `python sync_site_to_docs.py`
-
-## 待辦
-
-- [ ] 修正原始文字編碼，讓網站中文正常顯示
-- [ ] 把公告數字轉成可比較的 period metrics
-- [ ] 補 `mom / qoq / yoy` 比較欄位
-- [ ] 將 `由虧轉盈` 拆成獨立策略桶
-- [ ] 補更多價格資料，提升可回測樣本數
