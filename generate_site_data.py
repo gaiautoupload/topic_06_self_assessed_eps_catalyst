@@ -35,6 +35,7 @@ def parse_float(value: str) -> float | None:
 
 def build_payload() -> dict:
     events = load_csv("events.csv")
+    comparisons = load_csv("event_comparisons.csv")
     snapshots = load_csv("valuation_snapshot.csv")
     missing_prices = load_csv("valuation_missing_prices.csv")
     trades = load_csv("trades.csv")
@@ -46,10 +47,12 @@ def build_payload() -> dict:
         trades_by_event.setdefault(row["event_id"], []).append(row)
 
     snapshot_by_event = {row["event_id"]: row for row in snapshots}
+    comparison_by_event = {row["event_id"]: row for row in comparisons}
     event_cards: list[dict] = []
     for event in events:
         event_trades = trades_by_event.get(event["event_id"], [])
         snapshot = snapshot_by_event.get(event["event_id"])
+        comparison = comparison_by_event.get(event["event_id"])
         avg_return = None
         if event_trades:
             values = [parse_float(row["return_pct"]) for row in event_trades]
@@ -68,6 +71,14 @@ def build_payload() -> dict:
                 "eps_value": parse_float(event["eps_value"]),
                 "profit_value": parse_float(event["profit_value"]),
                 "coverage": "priced" if snapshot else "missing_price",
+                "strategy_bucket": comparison["strategy_bucket"] if comparison else "topic_06_eps_catalyst",
+                "metric_kind": comparison["metric_kind"] if comparison else None,
+                "metric_prev": parse_float(comparison["metric_prev"]) if comparison else None,
+                "prev_delta": parse_float(comparison["prev_delta"]) if comparison else None,
+                "prev_pct": parse_float(comparison["prev_pct"]) if comparison else None,
+                "yoy_delta": parse_float(comparison["yoy_delta"]) if comparison else None,
+                "yoy_pct": parse_float(comparison["yoy_pct"]) if comparison else None,
+                "turned_profit_from_loss": (comparison["turned_profit_from_loss"] == "True") if comparison else False,
                 "entry_date": snapshot["entry_date"] if snapshot else None,
                 "entry_close": parse_float(snapshot["close"]) if snapshot else None,
                 "implied_pe": parse_float(snapshot["implied_pe"]) if snapshot else None,
@@ -135,6 +146,7 @@ def build_payload() -> dict:
         },
         "valuation_summary": valuation_summary,
         "trades_summary": trades_summary,
+        "comparison_summary": load_json("event_comparisons_summary.json"),
         "missing_stock_ids": sorted({row["stock_id"] for row in missing_prices}),
         "ongoing_events": ongoing_events,
         "upcoming_events": upcoming_events,

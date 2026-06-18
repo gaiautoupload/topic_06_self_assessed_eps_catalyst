@@ -1,66 +1,107 @@
 # Topic 06 Implementation Plan
 
-## 1. Module Split
+## 1. Current Modules
 
-建議把流程拆成四個模組：
+現有流程：
 
 1. `extract_events.py`
-   - 從事件資料中找出自結 EPS 候選。
-   - 產出標準化事件表。
+   - 找出自結 EPS / 自結獲利候選事件
 
 2. `build_valuation_snapshot.py`
-   - 接股價資料與 EPS。
-   - 計算公告日附近的價格與 implied PE。
+   - 將事件對到價格資料
+   - 產出事件日的價格快照
 
 3. `build_trades.py`
-   - 套用進出場規則。
-   - 產出交易紀錄與報酬。
+   - 建立固定持有期交易
 
-4. `report.py`
-   - 彙整摘要指標。
-   - 輸出靜態頁面所需的表格與圖表資料。
+4. `generate_site_data.py`
+   - 將輸出整理成前端資料
 
-## 2. Data Flow
+5. `sync_site_to_docs.py`
+   - 將 `site/` 同步到 `docs/`
 
-`material_events.jsonl` / `mops_history`
--> `events.parquet`
--> `valuation_snapshot.parquet`
--> `trades.parquet`
--> report / static site
+## 2. New Comparison Layer
 
-## 3. Suggested Function Boundaries
+Topic 06 下一個必要模組不是先加更多前端，而是補「比較層」。
 
-### `extract_events.py`
+建議新增：
 
-- `load_candidates(...)`
-- `normalize_event(...)`
-- `classify_event_type(...)`
-- `extract_eps_value(...)`
-- `deduplicate_events(...)`
-- `write_events(...)`
+`build_event_comparisons.py`
 
-### `build_valuation_snapshot.py`
+用途：
+- 對每個事件補本期數值
+- 對照上月、上一季、去年同期
+- 算出改善幅度
+- 標記是否由虧轉盈 / 由盈轉虧
 
-- `load_prices(stock_id)`
-- `find_entry_date(announcement_date, announcement_time)`
-- `get_close_on_or_after(date)`
-- `calc_implied_pe(close, eps_value)`
-- `build_snapshot_row(event, price_row)`
+## 3. New Output Fields
 
-### `build_trades.py`
+`events.csv` / `events.parquet` 後續要補：
 
-- `determine_entry_date(event)`
-- `determine_exit_date(entry_date, holding_days)`
-- `calc_trade_return(entry_price, exit_price)`
-- `build_trade_row(event, snapshot)`
+- `metric_current`
+- `metric_prev_month`
+- `metric_prev_quarter`
+- `metric_yoy_base`
+- `mom_delta`
+- `qoq_delta`
+- `yoy_delta`
+- `mom_pct`
+- `qoq_pct`
+- `yoy_pct`
+- `turned_profit_from_loss`
+- `turned_loss_from_profit`
+- `comparison_source`
+- `strategy_bucket`
 
-## 4. First MVP Scope
+## 4. Strategy Buckets
 
-先只做以下最小版本：
+### Bucket A
 
-- 資料來源只用 `processed/material_events.jsonl`
-- 事件類型只保留 `self_assessed_eps`
-- 持有期只做 `T+5`
-- 不先加停利停損
-- 先產生 CSV/Parquet，再做靜態頁
+`topic_06_eps_catalyst`
 
+條件：
+- 自結 EPS 或自結獲利存在
+- 與可比基準相比為改善
+- 不屬於由虧轉盈的 regime shift
+
+### Bucket B
+
+`turnaround_loss_to_profit`
+
+條件：
+- 前一期或去年同期小於 0
+- 本期大於 0
+
+這條策略要獨立分析，不和 Topic 06 混算。
+
+## 5. Suggested Function Boundaries
+
+### `build_event_comparisons.py`
+
+- `load_events(...)`
+- `extract_current_metric(...)`
+- `lookup_previous_period_metric(...)`
+- `calc_delta(...)`
+- `calc_pct_change(...)`
+- `detect_turnaround(...)`
+- `assign_strategy_bucket(...)`
+- `write_comparison_output(...)`
+
+## 6. Website Implications
+
+前端之後要能顯示：
+
+- 正在交易事件的改善方向
+- `MoM / QoQ / YoY`
+- 是否由虧轉盈
+- 所屬策略桶
+
+首頁優先展示：
+- 正在交易的 `topic_06_eps_catalyst`
+- 正在交易的 `turnaround_loss_to_profit`
+
+過去事件頁：
+- 可以依策略桶過濾
+
+回測績效頁：
+- Topic 06 與由虧轉盈必須分開展示

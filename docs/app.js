@@ -47,6 +47,8 @@ function eventCard(event) {
             <span class="badge signal-${event.signal_strength}">${event.signal_strength} 級訊號</span>
             <span class="badge coverage-${event.coverage}">${event.coverage === "priced" ? "已接價格" : "待補價格"}</span>
             <span class="badge">${event.event_type}</span>
+            <span class="badge">${event.strategy_bucket}</span>
+            ${event.turned_profit_from_loss ? `<span class="badge">由虧轉盈</span>` : ``}
           </div>
         </div>
       </div>
@@ -66,6 +68,14 @@ function eventCard(event) {
         <div class="mini-stat">
           <div class="mini-label">平均報酬</div>
           <div class="mini-value">${fmtPct(event.avg_return_pct)}</div>
+        </div>
+        <div class="mini-stat">
+          <div class="mini-label">前值比較</div>
+          <div class="mini-value">${fmtPct(event.prev_pct)}</div>
+        </div>
+        <div class="mini-stat">
+          <div class="mini-label">YoY Proxy</div>
+          <div class="mini-value">${fmtPct(event.yoy_pct)}</div>
         </div>
       </div>
       ${tradeMarkup}

@@ -1,0 +1,9 @@
+{
+  "events": 37,
+  "comparisons": 37,
+  "with_prev": 28,
+  "with_yoy_proxy": 19,
+  "turnaround_loss_to_profit": 1,
+  "turnaround_profit_to_loss": 0,
+  "comparison_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\output\\event_comparisons.csv"
+}
