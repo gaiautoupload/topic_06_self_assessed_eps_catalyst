@@ -235,6 +235,51 @@ code { font-family: "Space Grotesk", monospace; }
   gap: 16px;
   margin-top: 18px;
 }
+.battle-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: 18px;
+}
+.battle-panel {
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  padding: 18px;
+  background: rgba(255,255,255,0.7);
+}
+.panel-title { font-weight: 700; font-size: 1.1rem; }
+.panel-note { color: var(--muted); margin-top: 6px; }
+.holdings-list { display: grid; gap: 10px; margin-top: 14px; }
+.holding-card {
+  display: grid;
+  grid-template-columns: 0.4fr 1.5fr 0.7fr;
+  gap: 10px;
+  align-items: center;
+  padding: 12px 14px;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,0.78);
+}
+.holding-rank { font-family: "Space Grotesk", sans-serif; font-weight: 700; }
+.holding-name { font-weight: 700; }
+.holding-meta { color: var(--muted); font-size: 0.9rem; }
+.holding-return { text-align: right; font-family: "Space Grotesk", sans-serif; font-weight: 700; }
+.strategy-highlight { margin-top: 14px; }
+.strategy-title { font-size: 1.2rem; font-weight: 700; line-height: 1.5; }
+.strategy-statline {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 14px;
+}
+.strategy-statline div {
+  padding: 12px;
+  border-radius: 14px;
+  background: rgba(243, 236, 222, 0.84);
+}
+.strategy-statline span { display: block; color: var(--muted); font-size: 0.86rem; }
+.strategy-statline strong { display: block; margin-top: 6px; font-size: 1.15rem; }
+.strategy-note { margin-top: 12px; color: var(--muted); }
 .strategy-summary, .top-five-card {
   border: 1px solid var(--line);
   border-radius: 22px;
@@ -267,6 +312,7 @@ code { font-family: "Space Grotesk", monospace; }
   .event-body { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .trade-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .top-five-grid { grid-template-columns: 1fr; }
+  .battle-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
   .page-shell { padding: 14px 14px 28px; }

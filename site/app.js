@@ -418,6 +418,8 @@ function renderTopFive(strategyIndex = 0) {
 }
 
 function initHomeDashboard() {
+  renderCurrentHoldings();
+  renderBestStrategyCard();
   renderStrategySwitcher();
   renderTopFive(0);
   const switcher = document.getElementById("strategySwitcher");
@@ -434,3 +436,43 @@ function initHomeDashboard() {
 }
 
 if (page === "home") initHomeDashboard();
+
+function renderCurrentHoldings() {
+  const target = document.getElementById("currentHoldings");
+  if (!target) return;
+  const holdings = (data.june_holdings || []).slice(0, 5);
+  if (!holdings.length) {
+    target.innerHTML = `<div class="empty-state">目前沒有 6 月持股資料。</div>`;
+    return;
+  }
+  target.innerHTML = holdings.map((row, index) => `
+    <article class="holding-card">
+      <div class="holding-rank">#${index + 1}</div>
+      <div>
+        <div class="holding-name">${row.company_name || row.stock_id}</div>
+        <div class="holding-meta">${row.stock_id} · ${row.buy_date}</div>
+      </div>
+      <div class="holding-return ${Number(row.return_pct || 0) >= 0 ? "positive-text" : "negative-text"}">${fmtPct(row.return_pct)}</div>
+    </article>
+  `).join("");
+}
+
+function renderBestStrategyCard() {
+  const target = document.getElementById("bestStrategyCard");
+  if (!target) return;
+  const best = data.winner_factor_best || {};
+  if (!best || !best.combo) {
+    target.innerHTML = `<div class="empty-state">目前沒有最佳策略資料。</div>`;
+    return;
+  }
+  target.innerHTML = `
+    <div class="strategy-title">${best.combo}</div>
+    <div class="strategy-statline">
+      <div><span>勝率</span><strong>${fmtPct(best.win_rate)}</strong></div>
+      <div><span>平均報酬</span><strong>${fmtPct(best.avg_return_pct)}</strong></div>
+      <div><span>月均報酬</span><strong>${fmtPct(best.monthly_avg_return_pct)}</strong></div>
+      <div><span>交易數</span><strong>${fmtInt(best.trades)}</strong></div>
+    </div>
+    <div class="strategy-note">${best.hit_goal ? "已達成目標條件" : "未達成 30% 平均報酬門檻，但這是目前最強組合。"}</div>
+  `;
+}

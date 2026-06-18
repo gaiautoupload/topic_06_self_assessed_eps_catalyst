@@ -43,8 +43,20 @@
         <section class="metrics" id="metrics"></section>
         <section class="card wide">
           <div class="section-heading">
-            <p class="eyebrow">Strategy Hub</p>
-            <h2>策略切換 / 預測前五名</h2>
+            <p class="eyebrow">Battle Room</p>
+            <h2>目前持股 / 最佳策略 / 前五名</h2>
+          </div>
+          <div class="battle-grid">
+            <div class="battle-panel">
+              <div class="panel-title">目前持股</div>
+              <div class="panel-note">6 月預計交易五檔，這裡固定顯示最新持股清單。</div>
+              <div class="holdings-list" id="currentHoldings"></div>
+            </div>
+            <div class="battle-panel">
+              <div class="panel-title">最佳策略</div>
+              <div class="panel-note">目前保留的最佳暴力回測組合，勝率 100% 那組。</div>
+              <div class="strategy-highlight" id="bestStrategyCard"></div>
+            </div>
           </div>
           <div class="strategy-switcher" id="strategySwitcher"></div>
           <div class="top-five-grid" id="topFiveGrid"></div>
