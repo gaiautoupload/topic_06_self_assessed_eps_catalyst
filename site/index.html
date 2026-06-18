@@ -3,13 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Topic 06 | 自結 EPS 股價催化效應</title>
+    <title>Topic 06 | 戰情室</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body data-page="home">
@@ -17,19 +14,17 @@
       <header class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Quant Event Platform / Topic 06</p>
-          <h1>自結 EPS 股價催化效應</h1>
-          <p class="lede">
-            這一頁先聚焦 2026 上半年本地樣本，最上方展示目前正在交易的事件，下方放待補行情與待追蹤的未來事件，讓整個量化觀看平台先有可操作的主板。
-          </p>
+          <h1>戰情室</h1>
+          <p class="lede">只保留真正有用的東西：目前持股、最佳策略、與最能打的回測結果。</p>
           <div class="author-chip">
-            <span class="author-name">作者 pioter</span>
+            <span class="author-name">pioter</span>
             <span class="author-role">分析師+1000</span>
           </div>
         </div>
         <div class="hero-panel">
           <div class="panel-label">Live Monitor</div>
           <div class="panel-number" id="heroMainValue">--</div>
-          <div class="panel-note" id="heroMainNote">正在整理事件資料</div>
+          <div class="panel-note" id="heroMainNote">等待最新回測資料</div>
         </div>
       </header>
 
@@ -44,40 +39,20 @@
         <section class="card wide">
           <div class="section-heading">
             <p class="eyebrow">Battle Room</p>
-            <h2>目前持股 / 最佳策略 / 前五名</h2>
+            <h2>目前持股 / 最佳策略</h2>
           </div>
           <div class="battle-grid">
             <div class="battle-panel">
               <div class="panel-title">目前持股</div>
-              <div class="panel-note">6 月預計交易五檔，這裡固定顯示最新持股清單。</div>
+              <div class="panel-note">若本月尚未形成持倉，這裡會顯示空狀態。</div>
               <div class="holdings-list" id="currentHoldings"></div>
             </div>
             <div class="battle-panel">
               <div class="panel-title">最佳策略</div>
-              <div class="panel-note">目前保留的最佳暴力回測組合，勝率 100% 那組。</div>
+              <div class="panel-note">目前保留的最佳暴力回測組合。</div>
               <div class="strategy-highlight" id="bestStrategyCard"></div>
             </div>
           </div>
-          <div class="strategy-switcher" id="strategySwitcher"></div>
-          <div class="top-five-grid" id="topFiveGrid"></div>
-        </section>
-
-        <section class="card wide">
-          <div class="section-heading">
-            <p class="eyebrow">Live Events</p>
-            <h2>正在交易的事件</h2>
-          </div>
-          <div class="section-intro">已納入月投組、且本地已有價格可追蹤的事件會顯示在這裡，方便你直接看目前報酬、前期變化與由虧轉盈訊號。</div>
-          <div class="event-list" id="ongoingList"></div>
-        </section>
-
-        <section class="card wide">
-          <div class="section-heading">
-            <p class="eyebrow">Future Queue</p>
-            <h2>未來事件</h2>
-          </div>
-          <div class="section-intro">這裡先放已挑出的主策略事件，但還缺行情或需要補資料的標的。等資料補齊後，就能逐步轉進上方的交易區。</div>
-          <div class="event-list" id="upcomingList"></div>
         </section>
       </main>
     </div>
