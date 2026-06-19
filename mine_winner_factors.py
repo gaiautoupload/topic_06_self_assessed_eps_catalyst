@@ -13,9 +13,9 @@ from typing import Any
 
 PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_DIR = PROJECT_ROOT / "project_data" / "simple_monthly_revenue"
+FULL_PRICE_DIR = PROJECT_ROOT / "project_data" / "full_market_prices" / "prices"
 SIGNAL_CSV = DATA_DIR / "prepared_signal_universe.csv"
-PRICE_CACHE_DIR = DATA_DIR / "prices"
-OUTPUT_DIR = DATA_DIR / "winner_factor_mining"
+OUTPUT_DIR = DATA_DIR / "winner_factor_mining_full_market"
 
 TARGET_WIN_RATE = 0.70
 TARGET_AVG_RETURN = 0.30
@@ -182,6 +182,57 @@ def build_trade(row: dict[str, str], exit_rule: str = "month_end") -> Trade | No
         revenue_month=row["revenue_month"],
         announcement_date=row["announcement_date"],
         buy_date=row["buy_date"],
+        exit_date=exit_date,
+        return_pct=return_pct,
+        mom_pct=parse_float(row.get("mom_pct")),
+        yoy_pct=parse_float(row.get("yoy_pct")),
+        institutional_total_net_buy_shares=parse_float(row.get("institutional_total_net_buy_shares")),
+        avg_volume_5d=parse_float(row.get("avg_volume_5d")),
+        previous_volume_ratio_20d=parse_float(row.get("previous_volume_ratio_20d")),
+        foreign_net_buy_shares=parse_float(row.get("foreign_net_buy_shares")),
+        investment_trust_net_buy_shares=parse_float(row.get("investment_trust_net_buy_shares")),
+        dealer_net_buy_shares=parse_float(row.get("dealer_net_buy_shares")),
+        breakout_20d=parse_bool(row.get("breakout_20d")),
+        breakout_60d=parse_bool(row.get("breakout_60d")),
+        breakout_120d=parse_bool(row.get("breakout_120d")),
+        breakout_240d=parse_bool(row.get("breakout_240d")),
+        day1_return_pct=relative_return(prices, entry_idx, 1),
+        day3_return_pct=relative_return(prices, entry_idx, 3),
+        day5_return_pct=relative_return(prices, entry_idx, 5),
+        max_close_10d_return_pct=max_close_return(prices, entry_idx, 10),
+    )
+
+
+def resolve_price_file(row: dict[str, str]) -> Path:
+    full_market_file = FULL_PRICE_DIR / f"{row['stock_id']}.csv"
+    if full_market_file.exists():
+        return full_market_file
+    return Path(row.get("price_file") or "")
+
+
+def build_trade(row: dict[str, str], exit_rule: str = "month_end") -> Trade | None:
+    price_file = resolve_price_file(row)
+    if not price_file.exists():
+        return None
+    prices = load_prices(price_file)
+    entry_date = row.get("buy_date") or ""
+    entry_idx = price_by_date(prices, entry_date)
+    if entry_idx is None:
+        return None
+    exit_info = maybe_monthly_return(prices, entry_idx, exit_rule)
+    if exit_info is None:
+        return None
+    exit_idx, _ = exit_info
+    exit_trade = simulate_exit(prices, entry_idx, exit_idx)
+    if exit_trade is None:
+        return None
+    exit_date, return_pct = exit_trade
+    return Trade(
+        stock_id=row["stock_id"],
+        company_name=row["company_name"],
+        revenue_month=row["revenue_month"],
+        announcement_date=row["announcement_date"],
+        buy_date=prices[entry_idx]["trade_date"],
         exit_date=exit_date,
         return_pct=return_pct,
         mom_pct=parse_float(row.get("mom_pct")),
@@ -383,7 +434,7 @@ def main() -> None:
         raise SystemExit(f"Missing signal file: {SIGNAL_CSV}")
 
     eligible = base_candidates(rows)
-    winners = month_winners(eligible, BASE_WINNER_POOL_TOP_N)
+    winners = month_winners(eligible, top_n=None)
 
     trades: list[dict[str, Any]] = []
     for row in winners:

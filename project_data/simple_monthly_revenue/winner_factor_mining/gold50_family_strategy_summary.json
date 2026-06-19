@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-06-19T14:12:58",
+  "best": {
+    "spec_index": 386,
+    "family": "second_breakout",
+    "min_score": 0.0,
+    "target_positions_per_month": 3,
+    "min_trades_per_month": 3,
+    "chip_w": 1.4,
+    "tech_w": 1.2,
+    "fundamental_w": 0.8,
+    "value_w": 0.8,
+    "trades": 15,
+    "months": 5,
+    "win_rate": 0.866667,
+    "avg_return_pct": 0.140477,
+    "monthly_avg_return_pct": 0.140477,
+    "objective": 0.430953
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "rows": 23,
+  "stocks": 23,
+  "with_quote": 23,
+  "with_valuation": 23,
+  "with_chip": 22,
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\standard_market_base.csv"
+}

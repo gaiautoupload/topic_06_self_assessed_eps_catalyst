@@ -1,0 +1,30 @@
+{
+  "events": 14,
+  "event_chip_rows": 14,
+  "use_local_brain_rules": true,
+  "parameter_sets": 3072,
+  "best": {
+    "parameter_id": "top10_rev0_eps0_poseps1_rise1_instany_foreign0_trust0_month_end",
+    "top_n": 10,
+    "min_revenue_yoy_pct": 0.0,
+    "min_eps_yoy_pct": 0.0,
+    "require_positive_eps": true,
+    "require_three_rises": true,
+    "min_institutional_net_buy_shares": null,
+    "require_foreign_net_buy": false,
+    "require_investment_trust_net_buy": false,
+    "exit_rule": "month_end",
+    "candidates": 2,
+    "selected": 2,
+    "trades": 2,
+    "finalized_trades": 0,
+    "as_of_latest_trades": 2,
+    "win_rate": 1.0,
+    "avg_return_pct": 0.075157,
+    "total_pnl_amount": 75156.5,
+    "invested_amount": 1000000.0,
+    "portfolio_return_pct": 0.075157
+  },
+  "result_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\parameter_results.csv",
+  "best_trades_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\best_parameter_trades.csv"
+}

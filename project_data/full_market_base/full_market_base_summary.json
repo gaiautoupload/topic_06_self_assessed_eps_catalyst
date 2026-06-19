@@ -1,0 +1,11 @@
+{
+  "companies": 1942,
+  "rows": 1942,
+  "price_files": 1945,
+  "with_price_file": 1942,
+  "with_quote": 1047,
+  "with_valuation": 1050,
+  "with_chip": 811,
+  "snapshot_date": "20260618",
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\full_market_base\\full_market_base.csv"
+}

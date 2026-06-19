@@ -1,0 +1,7 @@
+{
+  "rows": 5,
+  "monthly_revenue_rows": 2,
+  "financial_business_rows": 2,
+  "with_price_file": 5,
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\vllm_fundamental_events_2026_h1.csv"
+}

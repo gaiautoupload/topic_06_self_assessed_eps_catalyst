@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-06-19T12:16:30",
+  "trades": 2711,
+  "spec_count": 48,
+  "best": {
+    "spec_index": 37,
+    "target_positions_per_month": 20,
+    "min_trades_per_month": 6,
+    "score_step": 0.5,
+    "chip_weight": 1.2,
+    "tech_weight": 1.2,
+    "fundamental_weight": 0.8,
+    "value_weight": 1.0,
+    "threshold": 22.5,
+    "trades": 80,
+    "months": 5,
+    "win_rate": 0.6625,
+    "avg_return_pct": 0.086045,
+    "monthly_avg_return_pct": 0.085185,
+    "objective": 0.316412
+  },
+  "goal_hit": false
+}

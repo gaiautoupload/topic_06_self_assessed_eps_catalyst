@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-06-19T14:12:58",
+  "family": "undervalued_growth",
+  "strategy_count": 176,
+  "top50_count": 50,
+  "best": {
+    "spec_index": 289,
+    "family": "undervalued_growth",
+    "min_score": 0.0,
+    "target_positions_per_month": 10,
+    "min_trades_per_month": 10,
+    "chip_w": 1.0,
+    "tech_w": 1.0,
+    "fundamental_w": 1.2,
+    "value_w": 1.0,
+    "trades": 50,
+    "months": 5,
+    "win_rate": 0.76,
+    "avg_return_pct": 0.122552,
+    "monthly_avg_return_pct": 0.122552,
+    "objective": 0.377531
+  }
+}

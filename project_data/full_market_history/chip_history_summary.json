@@ -1,0 +1,203 @@
+{
+  "generated_at": "2026-06-19",
+  "start_date": "2026-01-01",
+  "end_date": "2026-06-18",
+  "fetched_dates": 109,
+  "rows": 219851,
+  "failures": [
+    {
+      "date": "2026-01-01",
+      "status": {
+        "date": "20260101",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260101&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/01/01&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-12",
+      "status": {
+        "date": "20260212",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260212&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/12&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-13",
+      "status": {
+        "date": "20260213",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260213&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/13&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-16",
+      "status": {
+        "date": "20260216",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260216&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/16&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-17",
+      "status": {
+        "date": "20260217",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260217&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/17&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-18",
+      "status": {
+        "date": "20260218",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260218&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/18&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-19",
+      "status": {
+        "date": "20260219",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260219&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/19&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-20",
+      "status": {
+        "date": "20260220",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260220&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/20&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-02-27",
+      "status": {
+        "date": "20260227",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260227&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/02/27&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "status": {
+        "date": "20260403",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260403&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/04/03&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "status": {
+        "date": "20260406",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260406&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/04/06&type=Daily&response=json"
+        }
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "status": {
+        "date": "20260501",
+        "twse": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260501&selectType=ALLBUT0999&response=json"
+        },
+        "tpex": {
+          "ok": false,
+          "rows": 0,
+          "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/05/01&type=Daily&response=json"
+        }
+      }
+    }
+  ],
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\full_market_history\\chip_history.csv",
+  "note": "This is a date-batched historical chip store built from official TWSE/TPEX daily endpoints."
+}

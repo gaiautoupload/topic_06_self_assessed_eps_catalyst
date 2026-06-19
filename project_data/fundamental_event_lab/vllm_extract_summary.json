@@ -1,0 +1,11 @@
+{
+  "model": "cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+  "api_base": "https://vllm-a5000.iii-ei-stack.com/v1",
+  "candidate_events": 5,
+  "cached_before": 0,
+  "attempted": 5,
+  "ok": 5,
+  "failed": [],
+  "jsonl": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\vllm_fundamental_extracts_2026_h1.jsonl",
+  "csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\vllm_fundamental_extracts_2026_h1.csv"
+}

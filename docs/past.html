@@ -3,47 +3,64 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Topic 06 | 策略室</title>
+    <meta name="theme-color" content="#0f4c5c" />
+    <title>Topic 06 | 月度買賣與策略排行</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700;800&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body data-page="past">
     <div class="page-shell">
-      <header class="subhero">
-        <div>
-          <p class="eyebrow">Strategy Room</p>
-          <h1>策略條件 / 歷史操作</h1>
-          <p class="lede">這一頁只放回測條件索引與不同策略的歷史操作記錄。點進去看每個策略怎麼交易，不再放雜訊。</p>
+      <header class="hero hero--compact" id="top">
+        <div class="hero-copy">
+          <p class="eyebrow">Strategy Room / Topic 06</p>
+          <h1>月度買賣與策略排行</h1>
+          <p class="lede">這一頁專門看每月怎麼買、怎麼賣、每個策略怎麼排。手機上直接滑就能檢查，桌機上會排成更完整的排行榜。</p>
+          <div class="author-chip">
+            <span class="author-name">pioter</span>
+            <span class="author-role">分析師+1000</span>
+          </div>
         </div>
-        <div class="author-chip compact">
-          <span class="author-name">pioter</span>
-          <span class="author-role">分析師+1000</span>
-        </div>
+        <aside class="hero-panel">
+          <div class="panel-label">Monthly Ledger</div>
+          <div class="panel-number" id="historyMainValue">--</div>
+          <div class="panel-note" id="historyMainNote">--</div>
+        </aside>
       </header>
 
       <nav class="top-nav">
-        <a class="nav-link" href="./index.html">正在交易</a>
-        <a class="nav-link is-active" href="./past.html">策略與歷史</a>
+        <a class="nav-link" href="./index.html">總覽</a>
+        <a class="nav-link is-active" href="./past.html">月度買賣</a>
       </nav>
 
       <main class="content-grid">
-        <section class="card wide">
+        <section class="card section-block" id="strategySection">
           <div class="section-heading">
-            <p class="eyebrow">Strategy Index</p>
-            <h2>回測條件總表</h2>
+            <p class="eyebrow">Leaderboard</p>
+            <h2>策略排行榜</h2>
           </div>
-          <div class="filter-palette" id="strategyPalette"></div>
+          <p class="section-note">這裡預設顯示原始前 50 筆策略，會把不同門檻與權重一起列出來；每列也會直接顯示參數，方便你比對。</p>
+          <div class="chip-row" id="strategyFamilyChips"></div>
+          <div class="leaderboard" id="strategyLeaderboard"></div>
         </section>
 
-        <section class="card wide">
+        <section class="card section-block" id="portfolioSection">
           <div class="section-heading">
-            <p class="eyebrow">History</p>
-            <h2>策略歷史操作紀錄</h2>
+            <p class="eyebrow">Portfolio</p>
+            <h2>月度配置</h2>
           </div>
-          <div class="history-selector" id="historySelector"></div>
-          <div class="trade-table" id="strategyHistoryTable"></div>
+          <p class="section-note">公告後隔日進場，月初到月末的持股配置會整理在這裡。</p>
+          <div class="month-grid" id="portfolioMonthsGrid"></div>
+        </section>
+
+        <section class="card section-block" id="ledgerSection">
+          <div class="section-heading">
+            <p class="eyebrow">Ledger</p>
+            <h2>歷史買賣明細</h2>
+          </div>
+          <p class="section-note">按月份展開後，可以直接檢查每一筆交易的買進時間、賣出時間、報酬率與損益。</p>
+          <div class="month-grid" id="tradeMonthsGrid"></div>
         </section>
       </main>
     </div>

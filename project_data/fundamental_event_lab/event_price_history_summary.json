@@ -1,0 +1,525 @@
+{
+  "fetched_at": "2026-06-18T15:38:32",
+  "stocks": 14,
+  "price_dir": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\prices",
+  "stock_status": {
+    "1304": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1304&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1304&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1304&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1304&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1304&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1304&response=json"
+        }
+      ]
+    },
+    "1305": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1305&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1305&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1305&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1305&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1305&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1305&response=json"
+        }
+      ]
+    },
+    "1309": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1309&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1309&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1309&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1309&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1309&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1309&response=json"
+        }
+      ]
+    },
+    "1312": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1312&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1312&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1312&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1312&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1312&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1312&response=json"
+        }
+      ]
+    },
+    "1323": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1323&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1323&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1323&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1323&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1323&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1323&response=json"
+        }
+      ]
+    },
+    "1409": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1409&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1409&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1409&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1409&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1409&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1409&response=json"
+        }
+      ]
+    },
+    "1440": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1440&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1440&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1440&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1440&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1440&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1440&response=json"
+        }
+      ]
+    },
+    "1441": {
+      "rows": 109,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1441&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1441&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1441&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260401&stockNo=1441&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 20,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260501&stockNo=1441&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=1441&response=json"
+        }
+      ]
+    },
+    "1444": {
+      "rows": 55,
+      "first_trade_date": "2026-01-02",
+      "last_trade_date": "2026-03-31",
+      "months": [
+        {
+          "ok": true,
+          "rows": 21,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260101&stockNo=1444&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 12,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260201&stockNo=1444&response=json"
+        },
+        {
+          "ok": true,
+          "rows": 22,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260301&stockNo=1444&response=json"
+        },
+        {
+          "ok": false,
+          "month_start": "20260401",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260501",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260601",
+          "error": "HTTP Error 307: Temporary Redirect"
+        }
+      ]
+    },
+    "1449": {
+      "rows": 0,
+      "first_trade_date": "",
+      "last_trade_date": "",
+      "months": [
+        {
+          "ok": false,
+          "month_start": "20260101",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260201",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260301",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260401",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260501",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260601",
+          "error": "HTTP Error 307: Temporary Redirect"
+        }
+      ]
+    },
+    "1454": {
+      "rows": 0,
+      "first_trade_date": "",
+      "last_trade_date": "",
+      "months": [
+        {
+          "ok": false,
+          "month_start": "20260101",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260201",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260301",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260401",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260501",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260601",
+          "error": "HTTP Error 307: Temporary Redirect"
+        }
+      ]
+    },
+    "1471": {
+      "rows": 0,
+      "first_trade_date": "",
+      "last_trade_date": "",
+      "months": [
+        {
+          "ok": false,
+          "month_start": "20260101",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260201",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260301",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260401",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260501",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260601",
+          "error": "HTTP Error 307: Temporary Redirect"
+        }
+      ]
+    },
+    "2493": {
+      "rows": 14,
+      "first_trade_date": "2026-06-01",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": false,
+          "month_start": "20260101",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260201",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260301",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260401",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260501",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=2493&response=json"
+        }
+      ]
+    },
+    "8021": {
+      "rows": 14,
+      "first_trade_date": "2026-06-01",
+      "last_trade_date": "2026-06-18",
+      "months": [
+        {
+          "ok": false,
+          "month_start": "20260101",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260201",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260301",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260401",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": false,
+          "month_start": "20260501",
+          "error": "HTTP Error 307: Temporary Redirect"
+        },
+        {
+          "ok": true,
+          "rows": 14,
+          "url": "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?date=20260601&stockNo=8021&response=json"
+        }
+      ]
+    }
+  }
+}

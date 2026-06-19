@@ -3,54 +3,73 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Topic 06 | 戰情室</title>
+    <meta name="theme-color" content="#0f4c5c" />
+    <title>Topic 06 | 自結 EPS 戰情室</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700;800&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body data-page="home">
     <div class="page-shell">
-      <header class="hero">
+      <header class="hero" id="top">
         <div class="hero-copy">
-          <p class="eyebrow">Quant Event Platform / Topic 06</p>
-          <h1>戰情室</h1>
-          <p class="lede">只保留真正有用的東西：目前持股、最佳策略、與最能打的回測結果。</p>
+          <p class="eyebrow">Quant Dashboard / Topic 06</p>
+          <h1>自結 EPS 戰情室</h1>
+          <p class="lede">公告先手、每月買賣、回測績效與策略排行榜一次看完。這版改成手機優先的卡片式版面，桌機也能一眼看清楚。</p>
           <div class="author-chip">
             <span class="author-name">pioter</span>
             <span class="author-role">分析師+1000</span>
           </div>
+          <div class="chip-row" id="heroChips"></div>
         </div>
-        <div class="hero-panel">
-          <div class="panel-label">Live Monitor</div>
+        <aside class="hero-panel">
+          <div class="panel-label">Live Snapshot</div>
           <div class="panel-number" id="heroMainValue">--</div>
-          <div class="panel-note" id="heroMainNote">等待最新回測資料</div>
-        </div>
+          <div class="panel-note" id="heroMainNote">--</div>
+          <div class="hero-mini-grid" id="heroMiniStats"></div>
+        </aside>
       </header>
 
       <nav class="top-nav">
-        <a class="nav-link is-active" href="./index.html">正在交易</a>
-        <a class="nav-link" href="./past.html">策略與歷史</a>
+        <a class="nav-link is-active" href="./index.html">總覽</a>
+        <a class="nav-link" href="./past.html">月度買賣</a>
       </nav>
 
       <main class="content-grid">
-        <section class="metrics" id="metrics"></section>
-        <section class="card wide">
+        <section class="card section-block">
           <div class="section-heading">
-            <p class="eyebrow">Battle Room</p>
-            <h2>目前持股 / 最佳策略</h2>
+            <p class="eyebrow">Overview</p>
+            <h2>回測總覽</h2>
           </div>
-          <div class="battle-grid">
-            <div class="battle-panel">
-              <div class="panel-title">目前持股</div>
-              <div class="panel-note">若本月尚未形成持倉，這裡會顯示空狀態。</div>
-              <div class="holdings-list" id="currentHoldings"></div>
-            </div>
-            <div class="battle-panel">
-              <div class="panel-title">最佳策略</div>
-              <div class="panel-note">目前保留的最佳暴力回測組合。</div>
-              <div class="strategy-highlight" id="bestStrategyCard"></div>
-            </div>
+          <div class="metrics" id="overviewKpis"></div>
+        </section>
+
+        <section class="card section-block">
+          <div class="section-heading">
+            <p class="eyebrow">Strategies</p>
+            <h2>四大策略看板</h2>
+          </div>
+          <div class="strategy-grid" id="strategyCards"></div>
+        </section>
+
+        <section class="card section-block">
+          <div class="section-heading">
+            <p class="eyebrow">Holdings</p>
+            <h2>目前持股</h2>
+          </div>
+          <p class="section-note" id="currentHoldingsMeta">--</p>
+          <div class="holding-grid" id="currentHoldings"></div>
+        </section>
+
+        <section class="card section-block">
+          <div class="section-heading">
+            <p class="eyebrow">Backtest</p>
+            <h2>最佳回測條件</h2>
+          </div>
+          <div class="backtest-grid">
+            <article class="spotlight-card" id="batchBacktestCard"></article>
+            <article class="spotlight-card" id="factorBacktestCard"></article>
           </div>
         </section>
       </main>

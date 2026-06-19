@@ -1,0 +1,56 @@
+{
+  "fetched_at": "2026-06-19T09:37:35",
+  "watchlist_count": 23,
+  "quote_rows": 23,
+  "valuation_rows": 23,
+  "chip_rows": 22,
+  "snapshot_rows": 23,
+  "local_price_file_count": 2,
+  "endpoint_status": {
+    "twse_quote": {
+      "ok": true,
+      "rows": 1367,
+      "url": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
+    },
+    "twse_valuation": {
+      "ok": true,
+      "rows": 1078,
+      "url": "https://openapi.twse.com.tw/v1/exchangeReport/BWIBBU_ALL"
+    },
+    "tpex_quote": {
+      "ok": true,
+      "rows": 1010,
+      "url": "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_quotes"
+    },
+    "tpex_valuation": {
+      "ok": true,
+      "rows": 888,
+      "url": "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_peratio_analysis"
+    }
+  },
+  "chip_status": {
+    "status": "ok",
+    "date": "20260618",
+    "rows": 22,
+    "endpoint_status": {
+      "twse_chip": {
+        "ok": true,
+        "rows": 1221,
+        "url": "https://www.twse.com.tw/rwd/zh/fund/T86?date=20260618&selectType=ALLBUT0999&response=json"
+      },
+      "tpex_chip": {
+        "ok": true,
+        "rows": 830,
+        "url": "https://www.tpex.org.tw/www/zh-tw/insti/dailyTrade?date=2026/06/18&type=Daily&response=json"
+      }
+    }
+  },
+  "outputs": {
+    "watchlist": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\watchlist_market_data\\watchlist.csv",
+    "quotes": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\watchlist_market_data\\watchlist_quotes.csv",
+    "valuation": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\watchlist_market_data\\watchlist_valuation.csv",
+    "chips": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\watchlist_market_data\\watchlist_chips.csv",
+    "snapshot": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\watchlist_market_data\\watchlist_market_snapshot.csv",
+    "summary": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\watchlist_market_data\\market_data_fetch_summary.json"
+  }
+}

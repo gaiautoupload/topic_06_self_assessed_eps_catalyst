@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-06-19T12:19:42",
+  "signal_rows": 7361,
+  "eligible_rows": 2742,
+  "winner_rows": 2742,
+  "trade_rows": 50,
+  "targets": {
+    "win_rate": 0.7,
+    "avg_return_pct": 0.3,
+    "monthly_avg_return_pct": 0.7
+  },
+  "best_combo": {
+    "combo": "mom_gt_20,foreign_buy_gt_100k",
+    "trades": 6,
+    "months": 3,
+    "win_rate": 0.833333,
+    "avg_return_pct": 0.194002,
+    "median_return_pct": 0.115265,
+    "monthly_avg_return_pct": 0.22466,
+    "hit_goal": false
+  },
+  "stopped_early": false
+}

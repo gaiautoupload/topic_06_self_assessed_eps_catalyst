@@ -1,0 +1,203 @@
+{
+  "generated_at": "2026-06-19T09:06:40",
+  "input_rows": 7361,
+  "output_rows": 7361,
+  "missing_counts": {
+    "foreign_net_buy_shares": 510,
+    "investment_trust_net_buy_shares": 510,
+    "dealer_net_buy_shares": 510,
+    "institutional_total_net_buy_shares": 531,
+    "avg_volume_5d": 2144,
+    "avg_volume_20d": 2144,
+    "previous_volume": 2144,
+    "previous_volume_ratio_20d": 2144,
+    "yoy_pct": 35,
+    "mom_pct": 26,
+    "buy_price": 54
+  },
+  "stocks_with_missing": 741,
+  "stocks_missing_sample": {
+    "1213": [
+      "buy_price",
+      "dealer_net_buy_shares",
+      "foreign_net_buy_shares",
+      "institutional_total_net_buy_shares",
+      "investment_trust_net_buy_shares"
+    ],
+    "1217": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1219": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1220": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1231": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1233": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1234": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1235": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1236": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1256": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1702": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "7780": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1304": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1305": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1307": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1308": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1309": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1310": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1312": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1313": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1314": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1315": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1321": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1323": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1324": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1325": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1326": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1337": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1340": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ],
+    "1341": [
+      "avg_volume_20d",
+      "avg_volume_5d",
+      "previous_volume",
+      "previous_volume_ratio_20d"
+    ]
+  },
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\simple_monthly_revenue\\prepared_signal_universe_repaired.csv"
+}

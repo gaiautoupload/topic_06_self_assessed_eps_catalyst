@@ -1,0 +1,8 @@
+{
+  "stocks": 14,
+  "price_files_total": 115,
+  "stocks_with_price": 2,
+  "institution_candidate_files": [],
+  "institution_status": "missing",
+  "coverage_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\market_data_coverage.csv"
+}

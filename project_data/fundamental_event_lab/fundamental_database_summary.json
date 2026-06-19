@@ -1,0 +1,13 @@
+{
+  "start_date": "2026-01-01",
+  "end_date": "2026-06-30",
+  "raw_events_in_range": 2021,
+  "fundamental_events": 14,
+  "with_monthly_revenue": 13,
+  "with_revenue_yoy": 13,
+  "with_eps": 11,
+  "with_eps_yoy": 11,
+  "with_price_file": 2,
+  "three_rises_events": 2,
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\fundamental_events_2026_h1.csv"
+}

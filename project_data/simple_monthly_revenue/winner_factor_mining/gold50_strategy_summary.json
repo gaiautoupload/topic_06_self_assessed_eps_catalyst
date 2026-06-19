@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-06-19T14:12:58",
+  "trades": 2711,
+  "strategy_count": 528,
+  "global_strategy_count": 176,
+  "top50_count": 50,
+  "best": {
+    "spec_index": 386,
+    "family": "second_breakout",
+    "min_score": 0.0,
+    "target_positions_per_month": 3,
+    "min_trades_per_month": 3,
+    "chip_w": 1.4,
+    "tech_w": 1.2,
+    "fundamental_w": 0.8,
+    "value_w": 0.8,
+    "trades": 15,
+    "months": 5,
+    "win_rate": 0.866667,
+    "avg_return_pct": 0.140477,
+    "monthly_avg_return_pct": 0.140477,
+    "objective": 0.430953
+  },
+  "family_best": {
+    "spec_index": 386,
+    "family": "second_breakout",
+    "min_score": 0.0,
+    "target_positions_per_month": 3,
+    "min_trades_per_month": 3,
+    "chip_w": 1.4,
+    "tech_w": 1.2,
+    "fundamental_w": 0.8,
+    "value_w": 0.8,
+    "trades": 15,
+    "months": 5,
+    "win_rate": 0.866667,
+    "avg_return_pct": 0.140477,
+    "monthly_avg_return_pct": 0.140477,
+    "objective": 0.430953
+  },
+  "family_summaries": {
+    "breakout_growth": {
+      "generated_at": "2026-06-19T14:12:58",
+      "family": "breakout_growth",
+      "strategy_count": 176,
+      "top50_count": 50,
+      "best": {
+        "spec_index": 161,
+        "family": "breakout_growth",
+        "min_score": 0.0,
+        "target_positions_per_month": 20,
+        "min_trades_per_month": 20,
+        "chip_w": 1.0,
+        "tech_w": 1.0,
+        "fundamental_w": 1.2,
+        "value_w": 1.0,
+        "trades": 100,
+        "months": 5,
+        "win_rate": 0.69,
+        "avg_return_pct": 0.104962,
+        "monthly_avg_return_pct": 0.104962,
+        "objective": 0.338977
+      }
+    },
+    "undervalued_growth": {
+      "generated_at": "2026-06-19T14:12:58",
+      "family": "undervalued_growth",
+      "strategy_count": 176,
+      "top50_count": 50,
+      "best": {
+        "spec_index": 289,
+        "family": "undervalued_growth",
+        "min_score": 0.0,
+        "target_positions_per_month": 10,
+        "min_trades_per_month": 10,
+        "chip_w": 1.0,
+        "tech_w": 1.0,
+        "fundamental_w": 1.2,
+        "value_w": 1.0,
+        "trades": 50,
+        "months": 5,
+        "win_rate": 0.76,
+        "avg_return_pct": 0.122552,
+        "monthly_avg_return_pct": 0.122552,
+        "objective": 0.377531
+      }
+    },
+    "second_breakout": {
+      "generated_at": "2026-06-19T14:12:58",
+      "family": "second_breakout",
+      "strategy_count": 176,
+      "top50_count": 50,
+      "best": {
+        "spec_index": 386,
+        "family": "second_breakout",
+        "min_score": 0.0,
+        "target_positions_per_month": 3,
+        "min_trades_per_month": 3,
+        "chip_w": 1.4,
+        "tech_w": 1.2,
+        "fundamental_w": 0.8,
+        "value_w": 0.8,
+        "trades": 15,
+        "months": 5,
+        "win_rate": 0.866667,
+        "avg_return_pct": 0.140477,
+        "monthly_avg_return_pct": 0.140477,
+        "objective": 0.430953
+      }
+    }
+  },
+  "families": [
+    "breakout_growth",
+    "undervalued_growth",
+    "second_breakout"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "generated_at": "2026-06-19",
+  "fetched_at": "2026-06-19T12:10:06",
+  "rows_written": 1966,
+  "rows_total": 1966,
+  "valuation_date": "1150618",
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\full_market_history\\valuation_history.csv",
+  "note": "Official valuation endpoints are snapshot-based; this script accumulates daily snapshots forward from today."
+}

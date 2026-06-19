@@ -1,0 +1,78 @@
+{
+  "rows": 0,
+  "failures": [
+    {
+      "roc_year": 115,
+      "month": 1,
+      "market": "listed",
+      "error": "https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_1.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_1_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_01.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_01_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 1,
+      "market": "otc",
+      "error": "https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_1.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_1_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_01.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_01_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 2,
+      "market": "listed",
+      "error": "https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_2.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_2_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_02.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_02_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 2,
+      "market": "otc",
+      "error": "https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_2.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_2_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_02.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_02_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 3,
+      "market": "listed",
+      "error": "https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_3.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_3_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_03.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_03_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 3,
+      "market": "otc",
+      "error": "https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_3.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_3_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_03.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_03_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 4,
+      "market": "listed",
+      "error": "https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_4.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_4_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_04.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_04_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 4,
+      "market": "otc",
+      "error": "https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_4.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_4_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_04.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_04_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 5,
+      "market": "listed",
+      "error": "https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_5.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_5_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_05.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_05_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 5,
+      "market": "otc",
+      "error": "https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_5.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_5_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_05.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_05_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 6,
+      "market": "listed",
+      "error": "https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_6.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_6_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_06.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/sii/t21sc03_115_06_0.html: HTTP Error 404: "
+    },
+    {
+      "roc_year": 115,
+      "month": 6,
+      "market": "otc",
+      "error": "https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_6.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_6_0.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_06.html: HTTP Error 404:  | https://mops.twse.com.tw/nas/t21/otc/t21sc03_115_06_0.html: HTTP Error 404: "
+    }
+  ],
+  "output_csv": "D:\\mainSD\\projects\\topic_06_self_assessed_eps_catalyst\\project_data\\fundamental_event_lab\\monthly_revenue\\monthly_revenue_2026_h1.csv"
+}
